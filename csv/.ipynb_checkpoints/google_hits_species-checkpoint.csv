@@ -1,0 +1,571 @@
+gl_hits;scientific_name;Charisma;Kingdom;Class;Order;Family;Genus;Species;Listing;NativeDistributionFullNames;Extinct_Distribution
+6110000;Canis lupus;1;Animalia;Mammalia;Carnivora;Canidae;Canis;lupus;I/II;Afghanistan,Albania,Armenia,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Canada,China,Croatia,Czech Republic,Democratic People's Republic of Korea,Estonia,Finland,France,Georgia,Germany,Greece,Greenland,Hungary,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Jordan,Kazakhstan,Kuwait,Kyrgyzstan,Latvia,Libya,Lithuania,Mongolia,Montenegro,Nepal,North Macedonia,Norway,Oman,Pakistan,Poland,Portugal,Republic of Korea,Republic of Moldova,Romania,Russian Federation,Saudi Arabia,Serbia,Slovakia,Slovenia,Spain,Sweden,Syrian Arab Republic,Tajikistan,Turkey,Turkmenistan,Ukraine,United States of America,Uzbekistan,Yemen;Austria,Bangladesh,Belgium,Denmark,Ireland,Japan,Luxembourg,Mexico,Netherlands,Switzerland,United Kingdom of Great Britain and Northern Ireland
+2490000;Panthera leo;1;Animalia;Mammalia;Carnivora;Felidae;Panthera;leo;I/II;Angola,Benin,Botswana,Burkina Faso,Cameroon,Central African Republic,Chad,Democratic Republic of the Congo,Eswatini,Ethiopia,Guinea,India,Kenya,Malawi,Mali,Mozambique,Namibia,Niger,Nigeria,Senegal,Somalia,South Africa,South Sudan,Sudan,Uganda,United Republic of Tanzania,Zambia,Zimbabwe;Afghanistan,Algeria,Burundi,Congo,Djibouti,Egypt,Eritrea,Gabon,Gambia,Greece,Iran (Islamic Republic of),Iraq,Israel,Jordan,Kuwait,Lebanon,Lesotho,Libya,Mauritania,Morocco,Pakistan,Rwanda,Saudi Arabia,Sierra Leone,Syrian Arab Republic,Tunisia,Turkey,Western Sahara
+2380000;Panthera tigris;1;Animalia;Mammalia;Carnivora;Felidae;Panthera;tigris;I;Afghanistan,Bangladesh,Bhutan,Cambodia,China,Democratic People's Republic of Korea,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Russian Federation,Thailand,Viet Nam;Georgia,Iran (Islamic Republic of),Iraq,Kazakhstan,Kyrgyzstan,Pakistan,Republic of Korea,Singapore,Tajikistan,Turkey,Turkmenistan,Uzbekistan
+2100000;Ursus arctos;1;Animalia;Mammalia;Carnivora;Ursidae;Ursus;arctos;I/II;Afghanistan,Albania,Armenia,Austria,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Canada,China,Croatia,Czech Republic,Democratic People's Republic of Korea,Estonia,Finland,France,Georgia,Greece,Hungary,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Japan,Kazakhstan,Kyrgyzstan,Latvia,Lebanon,Mexico,Mongolia,Montenegro,Nepal,North Macedonia,Norway,Pakistan,Poland,Romania,Russian Federation,Serbia,Slovakia,Slovenia,Spain,Sweden,Syrian Arab Republic,Tajikistan,Turkey,Turkmenistan,Ukraine,United States of America,Uzbekistan;Belgium,Denmark,Germany,Jordan,Liechtenstein,Lithuania,Netherlands,Portugal,Switzerland
+2100000;Ursus arctos;1;Animalia;Mammalia;Carnivora;Ursidae;Ursus;arctos;I/II;Afghanistan,Albania,Armenia,Austria,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Canada,China,Croatia,Czech Republic,Democratic People's Republic of Korea,Estonia,Finland,France,Georgia,Greece,Hungary,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Japan,Kazakhstan,Kyrgyzstan,Latvia,Lebanon,Mexico,Mongolia,Montenegro,Nepal,North Macedonia,Norway,Pakistan,Poland,Romania,Russian Federation,Serbia,Slovakia,Slovenia,Spain,Sweden,Syrian Arab Republic,Tajikistan,Turkey,Turkmenistan,Ukraine,United States of America,Uzbekistan;Belgium,Denmark,Germany,Jordan,Liechtenstein,Lithuania,Netherlands,Portugal,Switzerland
+2100000;Caretta caretta;1;Animalia;Reptilia;Testudines;Cheloniidae;Caretta;caretta;I;Albania,Algeria,Angola,Antigua and Barbuda,Argentina,Australia,Bahamas,Bahrain,Bangladesh,Belgium,Belize,Bonaire, Saint Eustatius and Saba,Brazil,British Virgin Islands (United Kingdom),Cabo Verde,Cameroon,Canada,Cayman Islands (United Kingdom),Chile,China,Colombia,Comoros,Comoros,Comoros,Comoros,Comoros,Comoros,Comoros,Comoros,Costa Rica,Côte d'Ivoire,Croatia,Cuba,Cyprus,Democratic People's Republic of Korea,Denmark,Djibouti,Dominica,Dominican Republic,Egypt,Eritrea,Fiji,France,French Guiana [FR],Gambia,Greece,Grenada,Guadeloupe,Guatemala,Guinea,Guinea Bissau,Guyana,Haiti,Honduras,India,Indonesia,Iran (Islamic Republic of),Ireland,Israel,Italy,Jamaica,Japan,Jordan,Kenya,Lebanon,Liberia,Libya,Madagascar,Malta,Martinique,Mauritania,Mauritius,Mexico,Micronesia (Federated States of),Monaco,Monaco,Montenegro,Montserrat (United Kingdom),Morocco,Mozambique,Myanmar,Netherlands,Netherlands Antilles,New Caledonia,Nicaragua,Norway,Oman,Pakistan,Panama,Papua New Guinea,Peru,Philippines,Poland,Portugal,Puerto Rico,Qatar,Republic of Korea,Réunion,Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines,Samoa,Sao Tome and Principe,Saudi Arabia,Senegal,Seychelles,Sierra Leone,Sint Maarten,Slovenia,Solomon Islands,Somalia,South Africa,Spain,Sri Lanka,Sudan,Suriname,Syrian Arab Republic,Taiwan, Province of China,Tonga,Trinidad and Tobago,Trinidad and Tobago,Tunisia,Turkey,Turks and Caicos Islands (United Kingdom),United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam,Virgin Islands of the USA,Western Sahara,Yemen;
+1680000;Panthera pardus;1;Animalia;Mammalia;Carnivora;Felidae;Panthera;pardus;I;Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Bangladesh,Benin,Bhutan,Botswana,Burkina Faso,Burundi,Cambodia,Cameroon,Central African Republic,Chad,China,Congo,Côte d'Ivoire,Democratic People's Republic of Korea,Democratic Republic of the Congo,Djibouti,Egypt,Equatorial Guinea,Eritrea,Ethiopia,Gabon,Gambia,Georgia,Ghana,Guinea,Guinea Bissau,India,Indonesia,Iran (Islamic Republic of),Iraq,Israel,Jordan,Kenya,Lao People's Democratic Republic,Lebanon,Lesotho,Liberia,Malawi,Malaysia,Mali,Morocco,Mozambique,Myanmar,Namibia,Nepal,Niger,Nigeria,Oman,Pakistan,Republic of Korea,Russian Federation,Rwanda,Saudi Arabia,Senegal,Sierra Leone,Somalia,South Africa,South Sudan,Sri Lanka,Sudan,Tajikistan,Thailand,Togo,Tunisia,Turkey,Turkmenistan,Uganda,United Arab Emirates,United Republic of Tanzania,Viet Nam,Yemen,Zambia,Zimbabwe;Hong Kong, SAR,Libya,Singapore,Syrian Arab Republic
+1470000;Pan troglodytes;1;Animalia;Mammalia;Primates;Hominidae;Pan;troglodytes;I;Angola,Burundi,Cameroon,Central African Republic,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Ghana,Guinea,Guinea Bissau,Liberia,Mali,Nigeria,Rwanda,Senegal,Sierra Leone,South Sudan,Uganda,United Republic of Tanzania;
+1330000;Loxodonta africana;1;Animalia;Mammalia;Proboscidea;Elephantidae;Loxodonta;africana;I/II;Angola,Benin,Botswana,Burkina Faso,Cameroon,Central African Republic,Chad,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Eritrea,Ethiopia,Gabon,Ghana,Guinea,Guinea Bissau,Kenya,Liberia,Malawi,Mali,Mozambique,Namibia,Niger,Nigeria,Rwanda,Senegal,Sierra Leone,Somalia,South Africa,South Sudan,Sudan,Togo,Uganda,United Republic of Tanzania,Zambia,Zimbabwe;Burundi,Djibouti,Eswatini,Gambia,Mauritania
+1250000;Gorilla gorilla;1;Animalia;Mammalia;Primates;Hominidae;Gorilla;gorilla;I;Angola,Cameroon,Central African Republic,Congo,Equatorial Guinea,Gabon,Nigeria;
+1110000;Panthera onca;1;Animalia;Mammalia;Carnivora;Felidae;Panthera;onca;I;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,Venezuela (Bolivarian Republic of);El Salvador,United States of America,Uruguay
+1060000;Chelonia mydas;1;Animalia;Reptilia;Testudines;Cheloniidae;Chelonia;mydas;I;Albania,Algeria,American Samoa,Angola,Anguilla (United Kingdom),Antigua and Barbuda,Aruba,Australia,Bahamas,Bahrain,Bangladesh,Barbados,Belize,Benin,Bosnia and Herzegovina,Brazil,British Indian Ocean Territory (United Kingdom),British Virgin Islands (United Kingdom),Brunei Darussalam,Cabo Verde,Cambodia,Cameroon,Canada,Cayman Islands (United Kingdom),Chile,China,Christmas Island,Cocos (Keeling) Islands,Colombia,Comoros,Congo,Cook Islands,Costa Rica,Côte d'Ivoire,Croatia,Cuba,Curaçao,Cyprus,Democratic Republic of the Congo,Djibouti,Dominica,Dominican Republic,Ecuador,Egypt,El Salvador,Equatorial Guinea,Eritrea,Fiji,France,French Guiana [FR],French Polynesia,French Southern and Antarctic Territories,Gabon,Gambia,Ghana,Greece,Grenada,Guadeloupe,Guam,Guatemala,Guinea,Guinea Bissau,Guyana,Haiti,Honduras,India,Indonesia,Iran (Islamic Republic of),Iraq,Ireland,Israel,Italy,Jamaica,Japan,Kenya,Kiribati,Kuwait,Lebanon,Liberia,Libya,Madagascar,Malaysia,Maldives,Malta,Marshall Islands,Martinique,Mauritania,Mauritius,Mayotte,Mexico,Micronesia (Federated States of),Montserrat (United Kingdom),Morocco,Mozambique,Myanmar,Namibia,Nauru,Netherlands Antilles,New Caledonia,New Zealand,Nicaragua,Nigeria,Niue,Northern Mariana Islands,Oman,Pakistan,Palau,Panama,Papua New Guinea,Peru,Philippines,Pitcairn Islands (United Kingdom),Portugal,Puerto Rico,Qatar,Réunion,Saint Helena and Dependencies (United Kingdom),Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines,Samoa,Sao Tome and Principe,Saudi Arabia,Senegal,Seychelles,Sierra Leone,Singapore,Sint Maarten,Slovenia,Solomon Islands,Somalia,South Africa,Spain,Sri Lanka,Sudan,Suriname,Syrian Arab Republic,Taiwan, Province of China,Thailand,Timor-Leste,Togo,Tokelau,Tonga,Trinidad and Tobago,Tunisia,Turkey,Turks and Caicos Islands (United Kingdom),Tuvalu,United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States Minor Outlying Islands,United States of America,Uruguay,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam,Virgin Islands of the USA,Wallis and Futuna Islands,Western Sahara,Yemen;Bermuda (United Kingdom)
+996000;Falco peregrinus;1;Animalia;Aves;Falconiformes;Falconidae;Falco;peregrinus;I;Albania,Algeria,Andorra,Angola,Antigua and Barbuda,Argentina,Armenia,Aruba,Australia,Austria,Azerbaijan,Bahamas,Bahrain,Bangladesh,Barbados,Belarus,Belgium,Belize,Benin,Bermuda (United Kingdom),Bhutan,Bolivia (Plurinational State of),Bosnia and Herzegovina,Botswana,Brazil,Brunei Darussalam,Bulgaria,Burkina Faso,Burundi,Cabo Verde,Cambodia,Cameroon,Canada,Cayman Islands (United Kingdom),Central African Republic,Chad,Chile,China,Christmas Island,Colombia,Comoros,Congo,Costa Rica,Côte d'Ivoire,Croatia,Cuba,Cyprus,Czech Republic,Democratic People's Republic of Korea,Democratic Republic of the Congo,Denmark,Djibouti,Dominica,Dominican Republic,Ecuador,Egypt,El Salvador,Equatorial Guinea,Eritrea,Estonia,Eswatini,Ethiopia,Falkland Islands (Malvinas),Faroe Islands,Fiji,Finland,France,French Guiana [FR],Gabon,Gambia,Georgia,Germany,Ghana,Gibraltar (United Kingdom),Greece,Greenland,Grenada,Guam,Guatemala,Guernsey (United Kingdom),Guinea,Guinea Bissau,Guyana,Haiti,Honduras,Hong Kong, SAR,Hungary,Iceland,India,Indonesia,Iran (Islamic Republic of),Iraq,Ireland,Israel,Italy,Jamaica,Japan,Jersey (United Kingdom),Jersey (United Kingdom),Jordan,Kazakhstan,Kenya,Kuwait,Kyrgyzstan,Lao People's Democratic Republic,Latvia,Lebanon,Lesotho,Liberia,Libya,Liechtenstein,Lithuania,Luxembourg,Macau,Madagascar,Malawi,Malaysia,Maldives,Mali,Malta,Mauritania,Mauritius,Mayotte,Mexico,Mongolia,Montenegro,Montserrat (United Kingdom),Morocco,Mozambique,Myanmar,Namibia,Nepal,Netherlands,Netherlands Antilles,New Caledonia,Nicaragua,Niger,Nigeria,North Macedonia,Norway,Oman,Pakistan,Palau,Panama,Papua New Guinea,Peru,Philippines,Pitcairn Islands (United Kingdom),Poland,Portugal,Puerto Rico,Qatar,Republic of Korea,Republic of Moldova,Romania,Russian Federation,Rwanda,Saint Kitts and Nevis,Saint Lucia,Saint Pierre and Miquelon,Saint Vincent and the Grenadines,Samoa,Sao Tome and Principe,Saudi Arabia,Senegal,Serbia,Seychelles,Sierra Leone,Singapore,Slovakia,Slovenia,Solomon Islands,Somalia,South Africa,South Georgia and South Sandwich Islands (United Kingdom),Spain,Sri Lanka,Sudan,Suriname,Sweden,Switzerland,Syrian Arab Republic,Taiwan, Province of China,Tajikistan,Thailand,Togo,Trinidad and Tobago,Tunisia,Turkey,Turkmenistan,Turks and Caicos Islands (United Kingdom),Uganda,Ukraine,United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Uzbekistan,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam,Virgin Islands of the USA,Yemen,Zambia,Zimbabwe;
+883000;Puma concolor;1;Animalia;Mammalia;Carnivora;Felidae;Puma;concolor;I/II;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Canada,Chile,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,United States of America,Uruguay,Venezuela (Bolivarian Republic of);
+883000;Puma concolor;1;Animalia;Mammalia;Carnivora;Felidae;Puma;concolor;I/II;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Canada,Chile,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,United States of America,Uruguay,Venezuela (Bolivarian Republic of);
+767000;Megaptera novaeangliae;1;Animalia;Mammalia;Cetacea;Balaenopteridae;Megaptera;novaeangliae;I;American Samoa,Angola,Anguilla (United Kingdom),Antarctica,Argentina,Australia,Bangladesh,Barbados,Benin,Bermuda (United Kingdom),Bonaire, Saint Eustatius and Saba,Brazil,Cabo Verde,Canada,Chile,Colombia,Comoros,Congo,Cook Islands,Costa Rica,Democratic People's Republic of Korea,Democratic Republic of the Congo,Dominican Republic,Ecuador,El Salvador,Equatorial Guinea,Falkland Islands (Malvinas),Fiji,France,French Polynesia,French Southern and Antarctic Territories,Gabon,Ghana,Greenland,Grenada,Guadeloupe,Honduras,Iceland,India,Indonesia,Iraq,Ireland,Japan,Kenya,Madagascar,Malaysia,Malta,Marshall Islands,Martinique,Mauritania,Mayotte,Mexico,Morocco,Mozambique,Namibia,Netherlands,Netherlands Antilles,New Caledonia,New Zealand,Nigeria,Northern Mariana Islands,Norway,Oman,Pakistan,Panama,Peru,Philippines,Pitcairn Islands (United Kingdom),Poland,Portugal,Republic of Korea,Russian Federation,Saint Helena and Dependencies (United Kingdom),Saint Lucia,Saint Vincent and the Grenadines,Samoa,Sao Tome and Principe,Solomon Islands,South Africa,South Georgia and South Sandwich Islands (United Kingdom),Spain,Sri Lanka,Svalbard and Jan Mayen Islands,Taiwan, Province of China,Togo,Tonga,Trinidad and Tobago,United Republic of Tanzania,United States of America,Uruguay,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam;
+753000;Elephas maximus;1;Animalia;Mammalia;Proboscidea;Elephantidae;Elephas;maximus;I;Bangladesh,Bhutan,Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Sri Lanka,Thailand,Viet Nam;
+752000;Lutra lutra;1;Animalia;Mammalia;Carnivora;Mustelidae;Lutra;lutra;I;Afghanistan,Albania,Algeria,Andorra,Armenia,Austria,Azerbaijan,Bangladesh,Belarus,Belgium,Bhutan,Bosnia and Herzegovina,Bulgaria,Cambodia,China,Croatia,Czech Republic,Democratic People's Republic of Korea,Denmark,Estonia,Finland,France,Georgia,Germany,Greece,Hong Kong, SAR,Hungary,India,Indonesia,Iran (Islamic Republic of),Iraq,Ireland,Israel,Italy,Jordan,Kazakhstan,Kyrgyzstan,Lao People's Democratic Republic,Latvia,Lebanon,Lithuania,Luxembourg,Mongolia,Montenegro,Morocco,Myanmar,Nepal,Netherlands,North Macedonia,Norway,Pakistan,Poland,Portugal,Republic of Korea,Republic of Moldova,Romania,Russian Federation,Serbia,Slovakia,Slovenia,Spain,Sri Lanka,Sweden,Syrian Arab Republic,Taiwan, Province of China,Tajikistan,Thailand,Tunisia,Turkey,Turkmenistan,Ukraine,United Kingdom of Great Britain and Northern Ireland,Uzbekistan,Viet Nam;Liechtenstein,Switzerland
+705000;Ailuropoda melanoleuca;1;Animalia;Mammalia;Carnivora;Ursidae;Ailuropoda;melanoleuca;I;China;
+692000;Acinonyx jubatus;1;Animalia;Mammalia;Carnivora;Felidae;Acinonyx;jubatus;I;Algeria,Angola,Benin,Botswana,Burkina Faso,Cameroon,Central African Republic,Chad,Democratic Republic of the Congo,Djibouti,Eritrea,Eswatini,Ethiopia,Iran (Islamic Republic of),Kenya,Malawi,Mali,Mauritania,Mozambique,Namibia,Niger,Nigeria,Somalia,South Africa,South Sudan,Sudan,Togo,Uganda,United Republic of Tanzania,Western Sahara,Zambia,Zimbabwe;Afghanistan,Burundi,India,Iraq,Israel,Jordan,Kazakhstan,Kuwait,Kyrgyzstan,Lebanon,Libya,Morocco,Pakistan,Saudi Arabia,Senegal,Syrian Arab Republic,Tajikistan,Tunisia,Turkmenistan,Uzbekistan,Yemen
+692000;Haliaeetus albicilla;1;Animalia;Aves;Falconiformes;Accipitridae;Haliaeetus;albicilla;I;Afghanistan,Albania,Armenia,Austria,Azerbaijan,Belarus,Belgium,Bhutan,Bosnia and Herzegovina,Bulgaria,China,Croatia,Cyprus,Czech Republic,Democratic People's Republic of Korea,Denmark,Egypt,Estonia,Faroe Islands,Finland,France,Georgia,Germany,Greece,Greenland,Hungary,Iceland,India,Iran (Islamic Republic of),Iraq,Ireland,Israel,Italy,Japan,Kazakhstan,Kyrgyzstan,Latvia,Lebanon,Lithuania,Luxembourg,Malta,Mongolia,Montenegro,Myanmar,Nepal,Netherlands,North Macedonia,Norway,Pakistan,Poland,Republic of Korea,Republic of Moldova,Romania,Russian Federation,Saudi Arabia,Serbia,Slovakia,Slovenia,Spain,Svalbard and Jan Mayen Islands,Sweden,Switzerland,Syrian Arab Republic,Taiwan, Province of China,Tajikistan,Thailand,Tunisia,Turkey,Turkmenistan,Ukraine,United States of America,Uzbekistan;Algeria,Portugal
+678000;Ara macao;1;Animalia;Aves;Psittaciformes;Psittacidae;Ara;macao;I;Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Peru,Suriname,Venezuela (Bolivarian Republic of);El Salvador
+622000;Struthio camelus;1;Animalia;Aves;Struthioniformes;Struthionidae;Struthio;camelus;I;Angola,Botswana,Cameroon,Central African Republic,Chad,Djibouti,Egypt,Eritrea,Ethiopia,Kenya,Mali,Mauritania,Mozambique,Namibia,Niger,Nigeria,Senegal,Somalia,South Africa,South Sudan,Sudan,Uganda,United Republic of Tanzania,Western Sahara,Zambia,Zimbabwe;Algeria,Bahrain,Burkina Faso,Iraq,Israel,Jordan,Kuwait,Libya,Morocco,Oman,Saudi Arabia,Tunisia
+482000;Pongo pygmaeus;1;Animalia;Mammalia;Primates;Hominidae;Pongo;pygmaeus;I;Indonesia,Malaysia;Brunei Darussalam
+444000;Balaenoptera musculus;1;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;musculus;I;Angola,Antarctica,Argentina,Australia,Bangladesh,Belgium,Bermuda (United Kingdom),Brazil,Cabo Verde,Canada,Chile,Costa Rica,Democratic People's Republic of Korea,Denmark,Ecuador,El Salvador,Falkland Islands (Malvinas),Finland,France,French Polynesia,French Southern and Antarctic Territories,Gabon,Germany,Greece,Greenland,Honduras,Iceland,India,Indonesia,Iraq,Ireland,Italy,Japan,Kenya,Kuwait,Maldives,Mauritania,Mexico,Morocco,Mozambique,Myanmar,Namibia,New Caledonia,New Zealand,Nicaragua,Norway,Oman,Pakistan,Panama,Peru,Portugal,Republic of Korea,Russian Federation,Somalia,South Africa,South Georgia and South Sandwich Islands (United Kingdom),Spain,Sri Lanka,Svalbard and Jan Mayen Islands,Taiwan, Province of China,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Viet Nam;
+430000;Eretmochelys imbricata;1;Animalia;Reptilia;Testudines;Cheloniidae;Eretmochelys;imbricata;I;Albania,American Samoa,Anguilla (United Kingdom),Antigua and Barbuda,Aruba,Australia,Bahamas,Bahrain,Bangladesh,Barbados,Belize,Benin,Bermuda (United Kingdom),Brazil,British Indian Ocean Territory (United Kingdom),British Virgin Islands (United Kingdom),Brunei Darussalam,Cabo Verde,Cambodia,Cameroon,Cayman Islands (United Kingdom),China,Colombia,Comoros,Congo,Cook Islands,Costa Rica,Côte d'Ivoire,Cuba,Curaçao,Djibouti,Dominica,Dominican Republic,Ecuador,Egypt,El Salvador,Equatorial Guinea,Eritrea,Fiji,France,French Guiana [FR],French Polynesia,French Southern and Antarctic Territories,Gabon,Gambia,Ghana,Grenada,Guadeloupe,Guam,Guatemala,Guinea,Guinea Bissau,Guyana,Haiti,Honduras,India,Indonesia,Iran (Islamic Republic of),Iraq,Israel,Italy,Jamaica,Japan,Jordan,Kenya,Kiribati,Kuwait,Liberia,Macau,Madagascar,Malaysia,Maldives,Malta,Marshall Islands,Martinique,Mauritania,Mauritius,Mayotte,Mexico,Micronesia (Federated States of),Montserrat (United Kingdom),Mozambique,Myanmar,Namibia,Netherlands Antilles,New Caledonia,New Zealand,Nicaragua,Nigeria,Northern Mariana Islands,Oman,Pakistan,Palau,Panama,Papua New Guinea,Peru,Philippines,Pitcairn Islands (United Kingdom),Portugal,Puerto Rico,Qatar,Réunion,Saint Helena and Dependencies (United Kingdom),Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines,Samoa,Sao Tome and Principe,Saudi Arabia,Senegal,Seychelles,Sierra Leone,Singapore,Sint Maarten,Solomon Islands,Somalia,South Africa,Spain,Sri Lanka,Sudan,Suriname,Taiwan, Province of China,Thailand,Togo,Tokelau,Tonga,Trinidad and Tobago,Turks and Caicos Islands (United Kingdom),Tuvalu,United Arab Emirates,United Republic of Tanzania,United States of America,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam,Virgin Islands of the USA,Wallis and Futuna Islands,Yemen;
+416000;Ailurus fulgens;1;Animalia;Mammalia;Carnivora;Ailuridae;Ailurus;fulgens;I;Bhutan,China,India,Myanmar,Nepal;
+366000;Lemur catta;1;Animalia;Mammalia;Primates;Lemuridae;Lemur;catta;I;Madagascar;
+352000;Pan paniscus;1;Animalia;Mammalia;Primates;Hominidae;Pan;paniscus;I;Democratic Republic of the Congo;
+327000;Ceratotherium simum;1;Animalia;Mammalia;Perissodactyla;Rhinocerotidae;Ceratotherium;simum;I;Democratic Republic of the Congo,South Africa,South Sudan;Angola,Central African Republic,Chad,Eswatini,Mozambique,Namibia,Uganda,Zimbabwe
+326000;Dermochelys coriacea;1;Animalia;Reptilia;Testudines;Dermochelyidae;Dermochelys;coriacea;I;Albania,Algeria,American Samoa,Angola,Anguilla (United Kingdom),Antigua and Barbuda,Argentina,Aruba,Australia,Bahamas,Bangladesh,Barbados,Belgium,Belize,Benin,Brazil,British Virgin Islands (United Kingdom),Brunei Darussalam,Cabo Verde,Cambodia,Cameroon,Canada,Chile,China,Colombia,Comoros,Congo,Costa Rica,Côte d'Ivoire,Croatia,Cuba,Curaçao,Cyprus,Democratic People's Republic of Korea,Democratic Republic of the Congo,Denmark,Djibouti,Dominica,Dominican Republic,Ecuador,Egypt,El Salvador,Equatorial Guinea,Eritrea,Fiji,France,French Guiana [FR],French Polynesia,Gabon,Gambia,Ghana,Greece,Grenada,Guadeloupe,Guatemala,Guinea,Guinea Bissau,Guyana,Haiti,Honduras,Iceland,India,Indonesia,Ireland,Israel,Italy,Jamaica,Japan,Jordan,Kenya,Kiribati,Kuwait,Lebanon,Liberia,Libya,Madagascar,Malaysia,Malta,Marshall Islands,Martinique,Mauritania,Mauritius,Mexico,Micronesia (Federated States of),Monaco,Montenegro,Montserrat (United Kingdom),Morocco,Mozambique,Myanmar,Namibia,Nauru,Netherlands,Netherlands Antilles,New Zealand,Nicaragua,Nigeria,Norway,Oman,Pakistan,Palau,Panama,Papua New Guinea,Peru,Philippines,Portugal,Puerto Rico,Qatar,Republic of Korea,Russian Federation,Saint Helena and Dependencies (United Kingdom),Saint Kitts and Nevis,Saint Lucia,Saint Vincent and the Grenadines,Samoa,Sao Tome and Principe,Senegal,Seychelles,Sierra Leone,Sint Maarten,Slovenia,Solomon Islands,Somalia,South Africa,Spain,Sri Lanka,Suriname,Sweden,Syrian Arab Republic,Taiwan, Province of China,Thailand,Togo,Tonga,Trinidad and Tobago,Tunisia,Turkey,Turks and Caicos Islands (United Kingdom),Tuvalu,United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam,Virgin Islands of the USA,Western Sahara,Yemen;
+324000;Varanus komodoensis;1;Animalia;Reptilia;Sauria;Varanidae;Varanus;komodoensis;I;Indonesia;
+323000;Physeter macrocephalus;1;Animalia;Mammalia;Cetacea;Physeteridae;Physeter;macrocephalus;I;American Samoa,Angola,Anguilla (United Kingdom),Antarctica,Argentina,Australia,Bahamas,Belgium,Belize,Bermuda (United Kingdom),Brazil,Cabo Verde,Canada,Cayman Islands (United Kingdom),Chile,China,Colombia,Comoros,Congo,Costa Rica,Côte d'Ivoire,Democratic People's Republic of Korea,Democratic Republic of the Congo,Denmark,Djibouti,Dominica,Dominican Republic,Ecuador,Equatorial Guinea,Eritrea,Falkland Islands (Malvinas),Fiji,French Polynesia,French Southern and Antarctic Territories,Gabon,Germany,Ghana,Gibraltar (United Kingdom),Greece,Greenland,Grenada,Honduras,Iceland,India,Indonesia,Ireland,Italy,Japan,Kenya,Liberia,Malaysia,Maldives,Malta,Mauritania,Mauritius,Mexico,Morocco,Mozambique,Myanmar,Namibia,Netherlands,Netherlands Antilles,New Caledonia,New Zealand,Norway,Oman,Panama,Peru,Philippines,Portugal,Puerto Rico,Republic of Korea,Russian Federation,Saint Helena and Dependencies (United Kingdom),Sao Tome and Principe,Seychelles,Solomon Islands,Somalia,South Africa,Spain,Sri Lanka,Suriname,Thailand,United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Venezuela (Bolivarian Republic of),Yemen;
+315000;Crocodylus niloticus;1;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;niloticus;I/II;Angola,Benin,Botswana,Burkina Faso,Burundi,Cameroon,Central African Republic,Chad,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Egypt,Equatorial Guinea,Eritrea,Eswatini,Ethiopia,Gabon,Gambia,Ghana,Guinea,Guinea Bissau,Kenya,Liberia,Madagascar,Malawi,Mali,Mauritania,Mozambique,Namibia,Niger,Nigeria,Rwanda,Senegal,Sierra Leone,Somalia,South Africa,South Sudan,Sudan,Togo,Uganda,United Republic of Tanzania,Zambia,Zimbabwe;Algeria,Comoros,Djibouti,Israel
+311000;Araucaria araucana;1;Plantae;;Pinales;Araucariaceae;Araucaria;araucana;I;Argentina,Chile;
+302000;Lepidochelys olivacea;1;Animalia;Reptilia;Testudines;Cheloniidae;Lepidochelys;olivacea;I;Angola,Antigua and Barbuda,Australia,Bahrain,Bangladesh,Barbados,Benin,Brazil,Brunei Darussalam,Cabo Verde,Cambodia,Cameroon,Canada,Chile,China,Colombia,Comoros,Comoros,Congo,Costa Rica,Côte d'Ivoire,Cuba,Djibouti,Dominica,Dominican Republic,Ecuador,Egypt,El Salvador,Equatorial Guinea,Eritrea,Fiji,French Guiana [FR],Gabon,Gambia,Ghana,Grenada,Guadeloupe,Guatemala,Guinea,Guinea Bissau,Guyana,Haiti,Honduras,India,Indonesia,Iran (Islamic Republic of),Iraq,Israel,Jordan,Kenya,Kuwait,Liberia,Madagascar,Malaysia,Maldives,Mauritania,Mauritius,Mexico,Micronesia (Federated States of),Mozambique,Myanmar,Namibia,Netherlands Antilles,New Caledonia,New Zealand,Nicaragua,Nigeria,Oman,Pakistan,Panama,Papua New Guinea,Peru,Philippines,Portugal,Qatar,Sao Tome and Principe,Saudi Arabia,Senegal,Seychelles,Sierra Leone,Singapore,Solomon Islands,Somalia,South Africa,Sri Lanka,Sudan,Suriname,Taiwan, Province of China,Thailand,Timor-Leste,Togo,Trinidad and Tobago,United Arab Emirates,United Arab Emirates,United Republic of Tanzania,United States of America,Uruguay,Vanuatu,Venezuela (Bolivarian Republic of),Viet Nam,Yemen;
+296000;Crocodylus porosus;1;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;porosus;I/II;Australia,Bangladesh,Brunei Darussalam,Cambodia,Cocos (Keeling) Islands,Fiji,Hong Kong, SAR,India,Indonesia,Malaysia,Micronesia (Federated States of),Myanmar,Palau,Papua New Guinea,Philippines,Solomon Islands,Sri Lanka,Vanuatu,Viet Nam;Singapore
+260000;Pongo abelii;1;Animalia;Mammalia;Primates;Hominidae;Pongo;abelii;I;Indonesia;
+255000;Leopardus pardalis;1;Animalia;Mammalia;Carnivora;Felidae;Leopardus;pardalis;I;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,Trinidad and Tobago,United States of America,Uruguay,Venezuela (Bolivarian Republic of);
+250000;Harpia harpyja;1;Animalia;Aves;Falconiformes;Accipitridae;Harpia;harpyja;I;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,Venezuela (Bolivarian Republic of);
+250000;Panthera uncia;1;Animalia;Mammalia;Carnivora;Felidae;Panthera;uncia;I;Afghanistan,Bhutan,China,India,Kazakhstan,Kyrgyzstan,Mongolia,Myanmar,Nepal,Pakistan,Russian Federation,Tajikistan,Uzbekistan;
+245000;Vultur gryphus;1;Animalia;Aves;Falconiformes;Cathartidae;Vultur;gryphus;I;Argentina,Bolivia (Plurinational State of),Brazil,Chile,Colombia,Ecuador,Paraguay,Peru,Venezuela (Bolivarian Republic of);
+233000;Gorilla beringei;1;Animalia;Mammalia;Primates;Hominidae;Gorilla;beringei;I;Democratic Republic of the Congo,Rwanda,Uganda;
+222000;Astrophytum asterias;1;Plantae;;Caryophyllales;Cactaceae;Astrophytum;asterias;I;Mexico,United States of America;
+220000;Psittacus erithacus;1;Animalia;Aves;Psittaciformes;Psittacidae;Psittacus;erithacus;I;Angola,Benin,Burundi,Cameroon,Central African Republic,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Ghana,Guinea,Guinea Bissau,Kenya,Liberia,Mali,Nigeria,Rwanda,Sao Tome and Principe,Sierra Leone,Togo,Uganda,United Republic of Tanzania;
+219000;Diceros bicornis;1;Animalia;Mammalia;Perissodactyla;Rhinocerotidae;Diceros;bicornis;I;Angola,Botswana,Cameroon,Central African Republic,Chad,Eritrea,Ethiopia,Kenya,Malawi,Mozambique,Namibia,Somalia,South Africa,South Sudan,Uganda,United Republic of Tanzania,Zambia,Zimbabwe;Burundi,Côte d'Ivoire,Democratic Republic of the Congo,Niger,Nigeria
+218000;Monachus monachus;1;Animalia;Mammalia;Carnivora;Phocidae;Monachus;monachus;I;Algeria,Cabo Verde,Cyprus,Gambia,Greece,Mauritania,Russian Federation,Senegal,Spain,Turkey,Western Sahara;Egypt,France,Georgia,Israel,Italy,Lebanon,Malta,Morocco,Portugal,Syrian Arab Republic
+217000;Balaenoptera physalus;1;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;physalus;I;Algeria,Angola,Antarctica,Argentina,Australia,Bangladesh,Belgium,Belize,Brazil,Canada,Chile,Colombia,Costa Rica,Côte d'Ivoire,Croatia,Cyprus,Democratic People's Republic of Korea,Denmark,Ecuador,Egypt,El Salvador,Faroe Islands,Fiji,France,French Polynesia,French Southern and Antarctic Territories,Gabon,Germany,Greece,Greenland,Guyana,Honduras,Hong Kong, SAR,Iceland,India,Indonesia,Ireland,Israel,Italy,Japan,Kenya,Madagascar,Malta,Mauritania,Mexico,Monaco,Morocco,Mozambique,Myanmar,Namibia,Netherlands,Netherlands Antilles,New Zealand,Norway,Pakistan,Peru,Poland,Portugal,Republic of Korea,Russian Federation,Sao Tome and Principe,Saudi Arabia,South Africa,South Georgia and South Sandwich Islands (United Kingdom),Spain,Sri Lanka,Suriname,Svalbard and Jan Mayen Islands,Taiwan, Province of China,Tunisia,Turkey,United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Venezuela (Bolivarian Republic of);
+214000;Trichechus manatus;1;Animalia;Mammalia;Sirenia;Trichechidae;Trichechus;manatus;I;Bahamas,Belize,Brazil,Colombia,Costa Rica,Cuba,Dominican Republic,Guatemala,Guyana,Haiti,Honduras,Jamaica,Mexico,Netherlands Antilles,Nicaragua,Panama,Puerto Rico,Suriname,Trinidad and Tobago,United States of America,Venezuela (Bolivarian Republic of);Antigua and Barbuda,British Virgin Islands (United Kingdom),Grenada,Guadeloupe,Martinique,Virgin Islands of the USA
+209000;Chitra chitra;1;Animalia;Reptilia;Testudines;Trionychidae;Chitra;chitra;I;Indonesia,Malaysia,Thailand;
+192000;Macaca sylvanus;1;Animalia;Mammalia;Primates;Cercopithecidae;Macaca;sylvanus;I;Algeria,Morocco;
+190000;Pelecanus crispus;1;Animalia;Aves;Pelecaniformes;Pelecanidae;Pelecanus;crispus;I;Afghanistan,Albania,Algeria,Armenia,Azerbaijan,Bulgaria,China,Cyprus,Egypt,Georgia,Greece,Hong Kong, SAR,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Kazakhstan,Kuwait,Kyrgyzstan,Latvia,Lebanon,Mongolia,Montenegro,Pakistan,Poland,Republic of Korea,Republic of Moldova,Romania,Russian Federation,Slovakia,Syrian Arab Republic,Taiwan, Province of China,Tajikistan,Turkey,Turkmenistan,Ukraine,United Arab Emirates,Uzbekistan,Western Sahara;Austria,Bosnia and Herzegovina,Croatia,Germany,Hungary,North Macedonia,Serbia
+188000;Crocodylus acutus;1;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;acutus;I/II;Belize,Colombia,Costa Rica,Cuba,Dominican Republic,Ecuador,El Salvador,Guatemala,Haiti,Honduras,Jamaica,Mexico,Nicaragua,Panama,Peru,United States of America,Venezuela (Bolivarian Republic of);
+181000;Nasalis larvatus;1;Animalia;Mammalia;Primates;Cercopithecidae;Nasalis;larvatus;I;Brunei Darussalam,Indonesia,Malaysia;
+180000;Balaenoptera acutorostrata;1;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;acutorostrata;I/II;Argentina,Australia,Bahamas,Bangladesh,Belgium,Bermuda (United Kingdom),Brazil,Canada,Chile,China,Colombia,Costa Rica,Democratic People's Republic of Korea,Denmark,Ecuador,Finland,France,French Polynesia,French Southern and Antarctic Territories,Germany,Greece,Greenland,Guyana,Iceland,India,Indonesia,Ireland,Isle of Man (United Kingdom),Israel,Italy,Japan,Malaysia,Malta,Mauritania,Mexico,Mozambique,Myanmar,Netherlands,Netherlands Antilles,New Caledonia,New Zealand,Norway,Peru,Philippines,Portugal,Republic of Korea,Russian Federation,Saudi Arabia,South Africa,Spain,Sri Lanka,Suriname,Svalbard and Jan Mayen Islands,Sweden,Taiwan, Province of China,Thailand,Tunisia,Turkey,United Kingdom of Great Britain and Northern Ireland,United States of America,Uruguay,Venezuela (Bolivarian Republic of),Viet Nam;
+179000;Caracal caracal;1;Animalia;Mammalia;Carnivora;Felidae;Caracal;caracal;I/II;Afghanistan,Algeria,Angola,Benin,Botswana,Cameroon,Central African Republic,Chad,Democratic Republic of the Congo,Djibouti,Egypt,Eritrea,Ethiopia,Gabon,Gambia,Ghana,Guinea,Guinea Bissau,India,Iran (Islamic Republic of),Iraq,Israel,Jordan,Kazakhstan,Kenya,Kuwait,Lebanon,Lesotho,Libya,Malawi,Mauritania,Morocco,Mozambique,Namibia,Niger,Nigeria,Oman,Pakistan,Saudi Arabia,Senegal,Somalia,South Africa,South Sudan,Sudan,Syrian Arab Republic,Tajikistan,Togo,Tunisia,Turkey,Turkmenistan,Uganda,United Arab Emirates,United Republic of Tanzania,Uzbekistan,Yemen,Zambia,Zimbabwe;
+179000;Dugong dugon;1;Animalia;Mammalia;Sirenia;Dugongidae;Dugong;dugon;I;Australia,Bahrain,Bangladesh,Brunei Darussalam,Cambodia,China,Comoros,Democratic People's Republic of Korea,Djibouti,Egypt,Eritrea,Guam,India,Indonesia,Iran (Islamic Republic of),Israel,Japan,Kenya,Madagascar,Malaysia,Mauritius,Mayotte,Micronesia (Federated States of),Mozambique,Myanmar,New Caledonia,Oman,Palau,Papua New Guinea,Philippines,Qatar,Saudi Arabia,Singapore,Solomon Islands,Somalia,South Africa,Sri Lanka,Sudan,Taiwan, Province of China,Thailand,United Arab Emirates,United Republic of Tanzania,Vanuatu,Viet Nam,Yemen;Maldives
+178000;Aquila heliaca;1;Animalia;Aves;Falconiformes;Accipitridae;Aquila;heliaca;I;Afghanistan,Albania,Armenia,Austria,Azerbaijan,Bangladesh,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Cameroon,China,Croatia,Cyprus,Czech Republic,Democratic People's Republic of Korea,Denmark,Djibouti,Egypt,Eritrea,Ethiopia,Finland,France,Georgia,Germany,Greece,Hong Kong, SAR,Hungary,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Japan,Jordan,Kazakhstan,Kenya,Kuwait,Kyrgyzstan,Lao People's Democratic Republic,Lebanon,Libya,Lithuania,Malaysia,Mongolia,Montenegro,Morocco,Myanmar,Nepal,North Macedonia,Oman,Pakistan,Poland,Republic of Korea,Republic of Moldova,Romania,Russian Federation,Saudi Arabia,Serbia,Singapore,Slovakia,Slovenia,Sudan,Sweden,Syrian Arab Republic,Tajikistan,Thailand,Turkey,Turkmenistan,Ukraine,United Arab Emirates,United Republic of Tanzania,Uzbekistan,Viet Nam,Yemen;
+178000;Chinchilla chinchilla;1;Animalia;Mammalia;Rodentia;Chinchillidae;Chinchilla;chinchilla;I;Argentina,Bolivia (Plurinational State of),Chile,Peru;
+177000;Antilocapra americana;1;Animalia;Mammalia;Artiodactyla;Antilocapridae;Antilocapra;americana;I;Canada,Mexico,United States of America;
+172000;Lynx pardinus;1;Animalia;Mammalia;Carnivora;Felidae;Lynx;pardinus;I;Portugal,Spain;
+172000;Bos gaurus;1;Animalia;Mammalia;Artiodactyla;Bovidae;Bos;gaurus;I;Bangladesh,Bhutan,Cambodia,China,India,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Thailand,Viet Nam;Sri Lanka
+165000;Ursus thibetanus;1;Animalia;Mammalia;Carnivora;Ursidae;Ursus;thibetanus;I;Afghanistan,Bangladesh,Bhutan,Cambodia,China,Democratic People's Republic of Korea,India,Iran (Islamic Republic of),Japan,Lao People's Democratic Republic,Mongolia,Myanmar,Nepal,Pakistan,Republic of Korea,Russian Federation,Taiwan, Province of China,Thailand,Viet Nam;
+163000;Balaenoptera borealis;1;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;borealis;I;Angola,Argentina,Australia,Brazil,Canada,Chile,Colombia,Costa Rica,Cuba,Democratic People's Republic of Korea,Denmark,Ecuador,Falkland Islands (Malvinas),Fiji,France,Gabon,Germany,Guyana,Iceland,India,Indonesia,Ireland,Japan,Kenya,Malaysia,Malta,Mauritania,Mexico,Morocco,Mozambique,Namibia,Netherlands,New Zealand,Norway,Peru,Poland,Portugal,Republic of Korea,Réunion,Russian Federation,South Africa,Spain,Suriname,Svalbard and Jan Mayen Islands,Taiwan, Province of China,Thailand,United Kingdom of Great Britain and Northern Ireland,United Republic of Tanzania,United States of America,Uruguay,Venezuela (Bolivarian Republic of),Viet Nam;
+163000;Rhinoceros unicornis;1;Animalia;Mammalia;Perissodactyla;Rhinocerotidae;Rhinoceros;unicornis;I;Bhutan,India,Myanmar,Nepal;Bangladesh,Pakistan
+160000;Falco rusticolus;1;Animalia;Aves;Falconiformes;Falconidae;Falco;rusticolus;I;Austria,Belgium,Bulgaria,Canada,China,Czech Republic,Denmark,Estonia,Faroe Islands,Finland,France,Germany,Greenland,Iceland,Ireland,Isle of Man (United Kingdom),Japan,Kazakhstan,Kyrgyzstan,Latvia,Lithuania,Netherlands,Norway,Poland,Portugal,Russian Federation,Saint Pierre and Miquelon,Svalbard and Jan Mayen Islands,Sweden,Switzerland,Ukraine,United Kingdom of Great Britain and Northern Ireland,United States of America;
+159000;Tremarctos ornatus;1;Animalia;Mammalia;Carnivora;Ursidae;Tremarctos;ornatus;I;Bolivia (Plurinational State of),Colombia,Ecuador,Peru,Venezuela (Bolivarian Republic of);
+157000;Pteronura brasiliensis;1;Animalia;Mammalia;Carnivora;Mustelidae;Pteronura;brasiliensis;I;Argentina,Brazil,Colombia,Ecuador,French Guiana [FR],Guyana,Paraguay,Peru,Suriname,Uruguay,Venezuela (Bolivarian Republic of);
+156000;Neofelis nebulosa;1;Animalia;Mammalia;Carnivora;Felidae;Neofelis;nebulosa;I;Bangladesh,Bhutan,Cambodia,China,India,Lao People's Democratic Republic,Myanmar,Nepal,Taiwan, Province of China,Thailand,Viet Nam;
+156000;Equus africanus;1;Animalia;Mammalia;Perissodactyla;Equidae;Equus;africanus;I;Chad,Djibouti,Eritrea,Ethiopia,Somalia,Sudan;Egypt
+154000;Grus japonensis;1;Animalia;Aves;Gruiformes;Gruidae;Grus;japonensis;I;China,Democratic People's Republic of Korea,Japan,Mongolia,Republic of Korea,Russian Federation,Taiwan, Province of China;
+152000;Microcebus murinus;1;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;murinus;I;Madagascar;
+146000;Pharomachrus mocinno;1;Animalia;Aves;Trogoniformes;Trogonidae;Pharomachrus;mocinno;I;Costa Rica,El Salvador,Guatemala,Honduras,Mexico,Nicaragua,Panama;
+146000;Mandrillus sphinx;1;Animalia;Mammalia;Primates;Cercopithecidae;Mandrillus;sphinx;I;Cameroon,Congo,Equatorial Guinea,Gabon;
+144000;Helarctos malayanus;1;Animalia;Mammalia;Carnivora;Ursidae;Helarctos;malayanus;I;Brunei Darussalam,Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand,Viet Nam;Bangladesh
+143000;Eschrichtius robustus;1;Animalia;Mammalia;Cetacea;Eschrichtiidae;Eschrichtius;robustus;I;Canada,China,Democratic People's Republic of Korea,Japan,Mexico,Republic of Korea,Russian Federation,United States of America;
+143000;Alouatta palliata;1;Animalia;Mammalia;Primates;Atelidae;Alouatta;palliata;I;Colombia,Costa Rica,Ecuador,Guatemala,Honduras,Mexico,Nicaragua,Panama,Peru;El Salvador
+142000;Balaena mysticetus;1;Animalia;Mammalia;Cetacea;Balaenidae;Balaena;mysticetus;I;Canada,Democratic People's Republic of Korea,Greenland,Iceland,Japan,Norway,Republic of Korea,Russian Federation,Svalbard and Jan Mayen Islands,United States of America;
+140000;Latimeria chalumnae;1;Animalia;Coelacanthi;Coelacanthiformes;Latimeriidae;Latimeria;chalumnae;I;Comoros,Kenya,Madagascar,Mozambique,South Africa;
+137000;Anodorhynchus hyacinthinus;1;Animalia;Aves;Psittaciformes;Psittacidae;Anodorhynchus;hyacinthinus;I;Bolivia (Plurinational State of),Brazil,Paraguay;
+136000;Hylobates lar;1;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;lar;I;China,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand;
+133000;Leopardus wiedii;1;Animalia;Mammalia;Carnivora;Felidae;Leopardus;wiedii;I;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,United States of America,Uruguay,Venezuela (Bolivarian Republic of);
+133000;Spheniscus humboldti;1;Animalia;Aves;Sphenisciformes;Spheniscidae;Spheniscus;humboldti;I;Chile,Ecuador,Peru;
+128000;Indri indri;1;Animalia;Mammalia;Primates;Indriidae;Indri;indri;I;Madagascar;
+125000;Eubalaena australis;1;Animalia;Mammalia;Cetacea;Balaenidae;Eubalaena;australis;I;Angola,Argentina,Australia,Bouvet Island,Brazil,Chile,Falkland Islands (Malvinas),French Southern and Antarctic Territories,Gabon,Guyana,India,Kenya,Mozambique,Namibia,New Zealand,Peru,Saint Helena and Dependencies (United Kingdom),South Africa,South Georgia and South Sandwich Islands (United Kingdom),United Republic of Tanzania,Uruguay;
+123000;Bos mutus;1;Animalia;Mammalia;Artiodactyla;Bovidae;Bos;mutus;I;China,India,Nepal;Kazakhstan,Mongolia,Russian Federation
+120000;Vicugna vicugna;1;Animalia;Mammalia;Artiodactyla;Camelidae;Vicugna;vicugna;I/II;Argentina,Bolivia (Plurinational State of),Chile,Peru;
+120000;Eubalaena glacialis;1;Animalia;Mammalia;Cetacea;Balaenidae;Eubalaena;glacialis;I;Bahamas,Belgium,Bermuda (United Kingdom),Canada,Faroe Islands,France,Germany,Greenland,Iceland,Ireland,Italy,Malta,Morocco,Netherlands,Norway,Portugal,Russian Federation,Saint Helena and Dependencies (United Kingdom),Spain,Svalbard and Jan Mayen Islands,United Kingdom of Great Britain and Northern Ireland,United States of America;
+120000;Chinchilla lanigera;1;Animalia;Mammalia;Rodentia;Chinchillidae;Chinchilla;lanigera;I;Chile;
+118000;Gavialis gangeticus;1;Animalia;Reptilia;Crocodylia;Gavialidae;Gavialis;gangeticus;I;Bangladesh,India,Nepal,Pakistan;Myanmar
+117000;Nipponia nippon;1;Animalia;Aves;Ciconiiformes;Threskiornithidae;Nipponia;nippon;I;China,Republic of Korea;Democratic People's Republic of Korea,Japan,Russian Federation,Taiwan, Province of China
+117000;Ara militaris;1;Animalia;Aves;Psittaciformes;Psittacidae;Ara;militaris;I;Bolivia (Plurinational State of),Colombia,Ecuador,Mexico,Peru,Venezuela (Bolivarian Republic of);Argentina,Guatemala
+114000;Lipotes vexillifer;1;Animalia;Mammalia;Cetacea;Iniidae;Lipotes;vexillifer;I;;
+113000;Saguinus oedipus;1;Animalia;Mammalia;Primates;Cebidae;Saguinus;oedipus;I;Colombia,Panama;
+110000;Scleropages formosus;1;Animalia;Actinopteri;Osteoglossiformes;Osteoglossidae;Scleropages;formosus;I;Cambodia,Indonesia,Malaysia,Thailand,Viet Nam;
+109000;Equus przewalskii;1;Animalia;Mammalia;Perissodactyla;Equidae;Equus;przewalskii;I;;Kazakhstan
+107000;Aloe polyphylla;1;Plantae;;Liliales;Liliaceae;Aloe;polyphylla;I;Lesotho;South Africa
+103000;Equus grevyi;0;Animalia;Mammalia;Perissodactyla;Equidae;Equus;grevyi;I;Ethiopia,Kenya,South Sudan;Djibouti,Somalia
+103000;Manis javanica;0;Animalia;Mammalia;Pholidota;Manidae;Manis;javanica;I;Brunei Darussalam,Cambodia,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Singapore,Thailand,Viet Nam;
+101000;Tapirus indicus;0;Animalia;Mammalia;Perissodactyla;Tapiridae;Tapirus;indicus;I;Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand,Viet Nam;
+101000;Melursus ursinus;0;Animalia;Mammalia;Carnivora;Ursidae;Melursus;ursinus;I;Bangladesh,Bhutan,India,Nepal,Sri Lanka;
+98700;Sousa chinensis;0;Animalia;Mammalia;Cetacea;Delphinidae;Sousa;chinensis;I;Bangladesh,Brunei Darussalam,Cambodia,China,Hong Kong, SAR,India,Indonesia,Malaysia,Myanmar,Papua New Guinea,Philippines,Singapore,Sudan,Taiwan, Province of China,Thailand,Viet Nam;
+98500;Capra falconeri;0;Animalia;Mammalia;Artiodactyla;Bovidae;Capra;falconeri;I;Afghanistan,India,Pakistan,Tajikistan,Turkmenistan,Uzbekistan;
+96400;Acipenser sturio;0;Animalia;Actinopteri;Acipenseriformes;Acipenseridae;Acipenser;sturio;I;Albania,Algeria,Belgium,Bulgaria,Croatia,Estonia,France,Georgia,Germany,Greece,Iceland,Ireland,Italy,Latvia,Lithuania,Montenegro,Morocco,Netherlands,North Macedonia,Norway,Poland,Portugal,Romania,Russian Federation,Serbia,Spain,Sweden,Turkey,Ukraine,United Kingdom of Great Britain and Northern Ireland;Czech Republic,Denmark
+95700;Geronticus eremita;0;Animalia;Aves;Ciconiiformes;Threskiornithidae;Geronticus;eremita;I;Algeria,Cabo Verde,Eritrea,Ethiopia,Germany,Israel,Mali,Mauritania,Morocco,Portugal,Saudi Arabia,Somalia,Spain,Sudan [prior to secession of South Sudan],Syrian Arab Republic,Western Sahara,Yemen;Egypt,Greece,Senegal
+95100;Aquila adalberti;0;Animalia;Aves;Falconiformes;Accipitridae;Aquila;adalberti;I;France,Gibraltar (United Kingdom),Portugal,Spain;Algeria,Morocco
+94300;Tapirus bairdii;0;Animalia;Mammalia;Perissodactyla;Tapiridae;Tapirus;bairdii;I;Belize,Colombia,Costa Rica,Ecuador,Guatemala,Honduras,Mexico,Nicaragua,Panama;El Salvador
+93200;Lepidochelys kempii;0;Animalia;Reptilia;Testudines;Cheloniidae;Lepidochelys;kempii;I;Belgium,Colombia,France,Ireland,Italy,Malta,Mauritania,Mexico,Netherlands,Portugal,Spain,United Kingdom of Great Britain and Northern Ireland,United States of America;
+93200;Jabiru mycteria;0;Animalia;Aves;Ciconiiformes;Ciconiidae;Jabiru;mycteria;I;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Grenada,Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,Trinidad and Tobago,Uruguay,Venezuela (Bolivarian Republic of);
+89500;Daubentonia madagascariensis;0;Animalia;Mammalia;Primates;Daubentoniidae;Daubentonia;madagascariensis;I;Madagascar;
+88700;Rhinoceros sondaicus;0;Animalia;Mammalia;Perissodactyla;Rhinocerotidae;Rhinoceros;sondaicus;I;Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand,Viet Nam;Bangladesh
+88500;Nomascus leucogenys;0;Animalia;Mammalia;Primates;Hylobatidae;Nomascus;leucogenys;I;China,Lao People's Democratic Republic,Viet Nam;
+87000;Crocodylus palustris;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;palustris;I;India,Iran (Islamic Republic of),Nepal,Pakistan,Sri Lanka;Bangladesh
+86600;Oryx dammah;0;Animalia;Mammalia;Artiodactyla;Bovidae;Oryx;dammah;I;;Algeria,Burkina Faso,Chad,Egypt,Libya,Mali,Mauritania,Morocco,Niger,Nigeria,Senegal,Sudan,Tunisia,Western Sahara
+84500;Grus americana;0;Animalia;Aves;Gruiformes;Gruidae;Grus;americana;I;Canada,United States of America;Mexico
+84400;Phocoena sinus;0;Animalia;Mammalia;Cetacea;Phocoenidae;Phocoena;sinus;I;Mexico;
+84000;Varecia variegata;0;Animalia;Mammalia;Primates;Lemuridae;Varecia;variegata;I;Madagascar;
+83100;Leucopsar rothschildi;0;Animalia;Aves;Passeriformes;Sturnidae;Leucopsar;rothschildi;I;Indonesia;
+82100;Lontra longicaudis;0;Animalia;Mammalia;Carnivora;Mustelidae;Lontra;longicaudis;I;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,El Salvador,French Guiana [FR],Guyana,Mexico,Paraguay,Peru,Suriname,Uruguay,Venezuela (Bolivarian Republic of);
+81600;Mitu mitu;0;Animalia;Aves;Galliformes;Cracidae;Mitu;mitu;I;;Brazil
+81300;Alligator sinensis;0;Animalia;Reptilia;Crocodylia;Alligatoridae;Alligator;sinensis;I;China;
+80400;Buceros bicornis;0;Animalia;Aves;Coraciiformes;Bucerotidae;Buceros;bicornis;I;Bangladesh,Bhutan,Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Singapore,Thailand,Viet Nam;
+79700;Peristeria elata;0;Plantae;;Orchidales;Orchidaceae;Peristeria;elata;I;Colombia,Costa Rica,Ecuador,El Salvador,Panama,Venezuela (Bolivarian Republic of);
+79700;Rhinopithecus roxellana;0;Animalia;Mammalia;Primates;Cercopithecidae;Rhinopithecus;roxellana;I;China;
+79500;Saussurea costus;0;Plantae;;Asterales;Compositae;Saussurea;costus;I;India,Pakistan;
+79400;Mustela nigripes;0;Animalia;Mammalia;Carnivora;Mustelidae;Mustela;nigripes;I;United States of America;Canada,Mexico
+79200;Caiman latirostris;0;Animalia;Reptilia;Crocodylia;Alligatoridae;Caiman;latirostris;I/II;Argentina,Bolivia (Plurinational State of),Brazil,Paraguay,Uruguay;
+78300;Semnopithecus entellus;0;Animalia;Mammalia;Primates;Cercopithecidae;Semnopithecus;entellus;I;Bangladesh,India,Nepal,Pakistan;
+78000;Balearica pavonina;0;Animalia;Aves;Gruiformes;Gruidae;Balearica;pavonina;I;Benin,Burkina Faso,Cameroon,Central African Republic,Chad,Côte d'Ivoire,Democratic Republic of the Congo,Eritrea,Ethiopia,Gabon,Gambia,Ghana,Guinea,Guinea Bissau,Kenya,Mali,Mauritania,Niger,Nigeria,Senegal,Sierra Leone,South Sudan,Sudan,Togo,Uganda;
+77900;Dicerorhinus sumatrensis;0;Animalia;Mammalia;Perissodactyla;Rhinocerotidae;Dicerorhinus;sumatrensis;I;India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand,Viet Nam;Bangladesh,Brunei Darussalam
+77800;Crocodylus siamensis;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;siamensis;I;Brunei Darussalam,Cambodia,Indonesia,Lao People's Democratic Republic,Malaysia,Thailand,Viet Nam;
+77600;Pithecophaga jefferyi;0;Animalia;Aves;Falconiformes;Accipitridae;Pithecophaga;jefferyi;I;Philippines;
+77300;Leopardus tigrinus;0;Animalia;Mammalia;Carnivora;Felidae;Leopardus;tigrinus;I;Argentina,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,French Guiana [FR],Guyana,Panama,Peru,Suriname,Venezuela (Bolivarian Republic of);
+76800;Hylobates moloch;0;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;moloch;I;Indonesia;
+76400;Oryx leucoryx;0;Animalia;Mammalia;Artiodactyla;Bovidae;Oryx;leucoryx;I;;Egypt,Iraq,Israel,Jordan,Kuwait,Oman,Saudi Arabia,Syrian Arab Republic,United Arab Emirates,Yemen
+76200;Leontopithecus rosalia;0;Animalia;Mammalia;Primates;Cebidae;Leontopithecus;rosalia;I;Brazil;
+74400;Probosciger aterrimus;0;Animalia;Aves;Psittaciformes;Cacatuidae;Probosciger;aterrimus;I;Australia,Indonesia,Papua New Guinea;
+74300;Balaenoptera edeni;0;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;edeni;I;Angola,Argentina,Australia,Bangladesh,Brazil,Brunei Darussalam,Cabo Verde,Chile,China,Colombia,Costa Rica,Djibouti,Ecuador,Egypt,El Salvador,Fiji,French Polynesia,Gabon,Grenada,Honduras,India,Indonesia,Iraq,Japan,Kenya,Madagascar,Malaysia,Maldives,Mauritania,Mexico,Mozambique,Myanmar,Namibia,Netherlands Antilles,New Zealand,Oman,Pakistan,Panama,Peru,Philippines,Saudi Arabia,Senegal,Seychelles,Solomon Islands,Somalia,South Africa,Sri Lanka,Taiwan, Province of China,Thailand,United Republic of Tanzania,United States of America,Venezuela (Bolivarian Republic of),Yemen;
+74100;Speothos venaticus;0;Animalia;Mammalia;Carnivora;Canidae;Speothos;venaticus;I;Argentina,Bolivia (Plurinational State of),Brazil,Colombia,Ecuador,French Guiana [FR],Guyana,Panama,Paraguay,Peru,Suriname,Venezuela (Bolivarian Republic of);
+73400;Addax nasomaculatus;0;Animalia;Mammalia;Artiodactyla;Bovidae;Addax;nasomaculatus;I;Chad,Mali,Mauritania,Niger,Sudan;Algeria,Egypt,Libya,Morocco,Tunisia,Western Sahara
+73100;Macaca silenus;0;Animalia;Mammalia;Primates;Cercopithecidae;Macaca;silenus;I;India;
+73100;Gymnogyps californianus;0;Animalia;Aves;Falconiformes;Cathartidae;Gymnogyps;californianus;I;;Mexico
+72600;Herpailurus yagouaroundi;0;Animalia;Mammalia;Carnivora;Felidae;Herpailurus;yagouaroundi;I/II;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,United States of America,Venezuela (Bolivarian Republic of);Uruguay
+72600;Herpailurus yagouaroundi;0;Animalia;Mammalia;Carnivora;Felidae;Herpailurus;yagouaroundi;I/II;Argentina,Belize,Bolivia (Plurinational State of),Brazil,Colombia,Costa Rica,Ecuador,El Salvador,French Guiana [FR],Guatemala,Guyana,Honduras,Mexico,Nicaragua,Panama,Paraguay,Peru,Suriname,United States of America,Venezuela (Bolivarian Republic of);Uruguay
+71600;Melanosuchus niger;0;Animalia;Reptilia;Crocodylia;Alligatoridae;Melanosuchus;niger;I/II;Bolivia (Plurinational State of),Brazil,Colombia,Ecuador,French Guiana [FR],Guyana,Peru;
+71100;Astrochelys radiata;0;Animalia;Reptilia;Testudines;Testudinidae;Astrochelys;radiata;I;Madagascar;
+71000;Orcaella brevirostris;0;Animalia;Mammalia;Cetacea;Delphinidae;Orcaella;brevirostris;I;Australia,Bangladesh,Brunei Darussalam,Cambodia,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Papua New Guinea,Philippines,Singapore,Thailand,Viet Nam;
+70900;Mandrillus leucophaeus;0;Animalia;Mammalia;Primates;Cercopithecidae;Mandrillus;leucophaeus;I;Cameroon,Equatorial Guinea,Nigeria;
+70200;Cacatua sulphurea;0;Animalia;Aves;Psittaciformes;Cacatuidae;Cacatua;sulphurea;I;Indonesia,Timor-Leste;
+70100;Ovis gmelini;0;Animalia;Mammalia;Artiodactyla;Bovidae;Ovis;gmelini;I;Cyprus;
+68300;Sotalia guianensis;0;Animalia;Mammalia;Cetacea;Delphinidae;Sotalia;guianensis;I;Brazil,Colombia,Costa Rica,French Guiana [FR],Guyana,Nicaragua,Panama,Suriname,Trinidad and Tobago,Venezuela (Bolivarian Republic of);
+68100;Sphenodon punctatus;0;Animalia;Reptilia;Rhynchocephalia;Sphenodontidae;Sphenodon;punctatus;I;New Zealand;
+66400;Ceratotherium simum simum;0;Animalia;Mammalia;Perissodactyla;Rhinocerotidae;Ceratotherium;simum;I/II;South Africa;Angola,Eswatini
+66200;Ciconia boyciana;0;Animalia;Aves;Ciconiiformes;Ciconiidae;Ciconia;boyciana;I;Bangladesh,China,Democratic People's Republic of Korea,Hong Kong, SAR,India,Japan,Mongolia,Republic of Korea,Russian Federation,Taiwan, Province of China;
+66100;Fitzroya cupressoides;0;Plantae;;Pinales;Cupressaceae;Fitzroya;cupressoides;I;Argentina,Chile;
+64700;Nycticebus coucang;0;Animalia;Mammalia;Primates;Lorisidae;Nycticebus;coucang;I;Brunei Darussalam,Indonesia,Malaysia,Philippines,Singapore,Thailand;
+63100;Blastocerus dichotomus;0;Animalia;Mammalia;Artiodactyla;Cervidae;Blastocerus;dichotomus;I;Argentina,Bolivia (Plurinational State of),Brazil,Paraguay,Peru;Uruguay
+63000;Symphalangus syndactylus;0;Animalia;Mammalia;Primates;Hylobatidae;Symphalangus;syndactylus;I;Indonesia,Malaysia,Thailand;
+62000;Cacatua moluccensis;0;Animalia;Aves;Psittaciformes;Cacatuidae;Cacatua;moluccensis;I;Indonesia;
+61800;Felis nigripes;0;Animalia;Mammalia;Carnivora;Felidae;Felis;nigripes;I;Botswana,Namibia,South Africa,Zimbabwe;
+61700;Vipera ursinii;0;Animalia;Reptilia;Serpentes;Viperidae;Vipera;ursinii;I;Albania,Armenia,Austria,Azerbaijan,Bosnia and Herzegovina,China,Croatia,France,Georgia,Greece,Hungary,Iran (Islamic Republic of),Italy,Kazakhstan,Kyrgyzstan,Montenegro,North Macedonia,Republic of Moldova,Romania,Russian Federation,Serbia,Slovakia,Slovenia,Turkey,Ukraine,Uzbekistan;Bulgaria
+61100;Pezoporus wallicus;0;Animalia;Aves;Psittaciformes;Psittacidae;Pezoporus;wallicus;I;Australia;
+61000;Propithecus verreauxi;0;Animalia;Mammalia;Primates;Indriidae;Propithecus;verreauxi;I;Madagascar;
+60800;Eulemur fulvus;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;fulvus;I;Madagascar,Mayotte;
+60800;Cyclura cornuta;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;cornuta;I;Dominican Republic,Haiti,United States Minor Outlying Islands;
+60700;Andrias davidianus;0;Animalia;Amphibia;Caudata;Cryptobranchidae;Andrias;davidianus;I;China;
+60300;Natator depressus;0;Animalia;Reptilia;Testudines;Cheloniidae;Natator;depressus;I;Australia,Indonesia,Papua New Guinea;
+59800;Dalbergia nigra;0;Plantae;;Fabales;Leguminosae;Dalbergia;nigra;I;Brazil;
+59600;Aonyx cinerea;0;Animalia;Mammalia;Carnivora;Mustelidae;Aonyx;cinerea;I;Bangladesh,Brunei Darussalam,Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Philippines,Singapore,Taiwan, Province of China,Thailand,Viet Nam;
+59400;Ozotoceros bezoarticus;0;Animalia;Mammalia;Artiodactyla;Cervidae;Ozotoceros;bezoarticus;I;Argentina,Bolivia (Plurinational State of),Brazil,Paraguay,Uruguay;
+58700;Alouatta pigra;0;Animalia;Mammalia;Primates;Atelidae;Alouatta;pigra;I;Belize,Guatemala,Mexico;
+57900;Tomistoma schlegelii;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Tomistoma;schlegelii;I;Indonesia,Malaysia;Thailand
+57700;Chlamydotis undulata;0;Animalia;Aves;Gruiformes;Otididae;Chlamydotis;undulata;I;Afghanistan,Algeria,Armenia,Azerbaijan,Bahrain,China,Egypt,India,Iran (Islamic Republic of),Iraq,Israel,Jordan,Kazakhstan,Kuwait,Kyrgyzstan,Libya,Mauritania,Mongolia,Morocco,Oman,Pakistan,Portugal,Russian Federation,Saudi Arabia,Spain,Switzerland,Syrian Arab Republic,Tajikistan,Tunisia,Turkmenistan,United Arab Emirates,Uzbekistan,Western Sahara,Yemen;
+57700;Geochelone elegans;0;Animalia;Reptilia;Testudines;Testudinidae;Geochelone;elegans;I;India,Pakistan,Sri Lanka;
+57200;Varanus bengalensis;0;Animalia;Reptilia;Sauria;Varanidae;Varanus;bengalensis;I;Afghanistan,Bangladesh,China,India,Iran (Islamic Republic of),Myanmar,Nepal,Pakistan,Sri Lanka,Thailand;
+56800;Manis pentadactyla;0;Animalia;Mammalia;Pholidota;Manidae;Manis;pentadactyla;I;Bangladesh,Bhutan,Cambodia,China,Hong Kong, SAR,India,Lao People's Democratic Republic,Myanmar,Nepal,Taiwan, Province of China,Thailand,Viet Nam;
+56300;Priodontes maximus;0;Animalia;Mammalia;Cingulata;Dasypodidae;Priodontes;maximus;I;Argentina,Bolivia (Plurinational State of),Brazil,Colombia,Ecuador,French Guiana [FR],Guyana,Paraguay,Peru,Suriname,Venezuela (Bolivarian Republic of);
+55700;Cyanopsitta spixii;0;Animalia;Aves;Psittaciformes;Psittacidae;Cyanopsitta;spixii;I;Brazil;
+55400;Leopardus geoffroyi;0;Animalia;Mammalia;Carnivora;Felidae;Leopardus;geoffroyi;I;Argentina,Bolivia (Plurinational State of),Brazil,Chile,Paraguay,Uruguay;
+55200;Crocodylus moreletii;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;moreletii;I/II;Belize,Guatemala,Mexico;
+54500;Branta sandvicensis;0;Animalia;Aves;Anseriformes;Anatidae;Branta;sandvicensis;I;United States of America;
+52000;Caloenas nicobarica;0;Animalia;Aves;Columbiformes;Columbidae;Caloenas;nicobarica;I;Cambodia,India,Indonesia,Malaysia,Myanmar,Palau,Papua New Guinea,Philippines,Solomon Islands,Thailand,Viet Nam;
+51800;Numenius tenuirostris;0;Animalia;Aves;Charadriiformes;Scolopacidae;Numenius;tenuirostris;I;Albania,Algeria,Austria,Azerbaijan,Belgium,Bosnia and Herzegovina,Bulgaria,Canada,Croatia,Cyprus,Czech Republic,Egypt,France,Georgia,Germany,Greece,Hungary,Iran (Islamic Republic of),Iraq,Israel,Italy,Jordan,Kazakhstan,Kuwait,Kyrgyzstan,Latvia,Libya,Malta,Montenegro,Morocco,Netherlands,Oman,Poland,Portugal,Romania,Russian Federation,Serbia,Slovakia,Slovenia,Spain,Switzerland,Tunisia,Turkey,Turkmenistan,Ukraine,Uzbekistan,Yemen;
+51200;Osteolaemus tetraspis;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Osteolaemus;tetraspis;I;Angola,Benin,Burkina Faso,Cameroon,Central African Republic,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Gambia,Ghana,Guinea,Guinea Bissau,Liberia,Nigeria,Senegal,Sierra Leone,Togo,Uganda;
+51100;Propithecus coquereli;0;Animalia;Mammalia;Primates;Indriidae;Propithecus;coquereli;I;Madagascar;
+50800;Neophocaena phocaenoides;0;Animalia;Mammalia;Cetacea;Phocoenidae;Neophocaena;phocaenoides;I;Bahrain,Bangladesh,Brunei Darussalam,Cambodia,China,Democratic People's Republic of Korea,Hong Kong, SAR,India,Indonesia,Iran (Islamic Republic of),Iraq,Kuwait,Malaysia,Myanmar,Pakistan,Qatar,Saudi Arabia,Singapore,Sri Lanka,Taiwan, Province of China,Thailand,United Arab Emirates,Viet Nam;
+50500;Platanista gangetica;0;Animalia;Mammalia;Cetacea;Platanistidae;Platanista;gangetica;I;Bangladesh,India,Nepal;
+50400;Callimico goeldii;0;Animalia;Mammalia;Primates;Cebidae;Callimico;goeldii;I;Bolivia (Plurinational State of),Brazil,Colombia,Peru;
+49500;Amazona auropalliata;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;auropalliata;I;Belize,Costa Rica,El Salvador,Guatemala,Honduras,Mexico,Nicaragua;
+49400;Macrotis lagotis;0;Animalia;Mammalia;Peramelemorphia;Thylacomyidae;Macrotis;lagotis;I;Australia;
+49000;Pygathrix nemaeus;0;Animalia;Mammalia;Primates;Cercopithecidae;Pygathrix;nemaeus;I;Lao People's Democratic Republic,Viet Nam;
+48900;Trichechus inunguis;0;Animalia;Mammalia;Sirenia;Trichechidae;Trichechus;inunguis;I;Brazil,Colombia,Ecuador,Guyana,Peru,Venezuela (Bolivarian Republic of);
+48300;Sotalia fluviatilis;0;Animalia;Mammalia;Cetacea;Delphinidae;Sotalia;fluviatilis;I;Brazil,Colombia,Ecuador,Peru;
+47000;Cercopithecus diana;0;Animalia;Mammalia;Primates;Cercopithecidae;Cercopithecus;diana;I;Côte d'Ivoire,Guinea,Liberia,Sierra Leone;
+46800;Lophophorus impejanus;0;Animalia;Aves;Galliformes;Phasianidae;Lophophorus;impejanus;I;Afghanistan,Bhutan,China,India,Myanmar,Nepal,Pakistan;
+46500;Crocodylus intermedius;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;intermedius;I;Colombia,Venezuela (Bolivarian Republic of);
+46400;Rhinopithecus bieti;0;Animalia;Mammalia;Primates;Cercopithecidae;Rhinopithecus;bieti;I;China;
+46300;Varanus griseus;0;Animalia;Reptilia;Sauria;Varanidae;Varanus;griseus;I;Algeria,Burkina Faso,Cameroon,Egypt,India,Iraq,Israel,Jordan,Kazakhstan,Kuwait,Kyrgyzstan,Lebanon,Libya,Mali,Mauritania,Morocco,Niger,Oman,Pakistan,Qatar,Saudi Arabia,Sudan,Syrian Arab Republic,Tajikistan,Tunisia,Turkey,Turkmenistan,United Arab Emirates,Uzbekistan,Western Sahara,Yemen;
+46000;Prionailurus rubiginosus;0;Animalia;Mammalia;Carnivora;Felidae;Prionailurus;rubiginosus;I/II;India,Nepal,Sri Lanka;
+44800;Ara ambiguus;0;Animalia;Aves;Psittaciformes;Psittacidae;Ara;ambiguus;I;Colombia,Costa Rica,Ecuador,Honduras,Nicaragua,Panama;
+44500;Pardofelis marmorata;0;Animalia;Mammalia;Carnivora;Felidae;Pardofelis;marmorata;I;Brunei Darussalam,Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Thailand,Viet Nam;
+44300;Acipenser brevirostrum;0;Animalia;Actinopteri;Acipenseriformes;Acipenseridae;Acipenser;brevirostrum;I;Canada,United States of America;
+43900;Amazona oratrix;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;oratrix;I;Belize,Guatemala,Honduras,Mexico;
+43100;Lutrogale perspicillata;0;Animalia;Mammalia;Carnivora;Mustelidae;Lutrogale;perspicillata;I;Afghanistan,Bangladesh,Bhutan,Brunei Darussalam,Cambodia,China,India,Indonesia,Iraq,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Pakistan,Singapore,Thailand,Viet Nam;
+42600;Andrias japonicus;0;Animalia;Amphibia;Caudata;Cryptobranchidae;Andrias;japonicus;I;Japan;
+42200;Crocodylus rhombifer;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;rhombifer;I;Cuba;
+42000;Pygathrix cinerea;0;Animalia;Mammalia;Primates;Cercopithecidae;Pygathrix;cinerea;I;Cambodia,Viet Nam;
+41900;Paphiopedilum insigne;0;Plantae;;Orchidales;Orchidaceae;Paphiopedilum;insigne;I;China,India,Nepal,Thailand;
+41600;Platysternon megacephalum;0;Animalia;Reptilia;Testudines;Platysternidae;Platysternon;megacephalum;I;Cambodia,China,Hong Kong, SAR,Lao People's Democratic Republic,Myanmar,Thailand,Viet Nam;
+41600;Tapirus pinchaque;0;Animalia;Mammalia;Perissodactyla;Tapiridae;Tapirus;pinchaque;I;Colombia,Ecuador,Peru,Venezuela (Bolivarian Republic of);
+41600;Shinisaurus crocodilurus;0;Animalia;Reptilia;Sauria;Xenosauridae;Shinisaurus;crocodilurus;I;China,Viet Nam;
+40900;Crocodylus mindorensis;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;mindorensis;I;Philippines;
+40600;Pseudoryx nghetinhensis;0;Animalia;Mammalia;Artiodactyla;Bovidae;Pseudoryx;nghetinhensis;I;Lao People's Democratic Republic,Viet Nam;
+40300;Varecia rubra;0;Animalia;Mammalia;Primates;Lemuridae;Varecia;rubra;I;Madagascar;
+40200;Balaenoptera bonaerensis;0;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;bonaerensis;I;Angola,Antarctica,Argentina,Australia,Brazil,Chile,Falkland Islands (Malvinas),Fiji,Mozambique,Namibia,New Caledonia,New Zealand,Peru,South Africa,Suriname;
+39900;Pantholops hodgsonii;0;Animalia;Mammalia;Artiodactyla;Bovidae;Pantholops;hodgsonii;I;China,India,Nepal;
+39900;Simias concolor;0;Animalia;Mammalia;Primates;Cercopithecidae;Simias;concolor;I;Indonesia;
+39900;Pristis pectinata;0;Animalia;Elasmobranchii;Pristiformes;Pristidae;Pristis;pectinata;I;Argentina,Aruba,Bahamas,Bangladesh,Belize,Bermuda (United Kingdom),Brazil,Cameroon,Costa Rica,Cuba,Honduras,India,Kenya,Lebanon,Madagascar,Mauritius,Mexico,Morocco,Mozambique,Myanmar,Namibia,Netherlands Antilles,Oman,Pakistan,Peru,Sao Tome and Principe,Sierra Leone,Somalia,South Africa,Sri Lanka,Syrian Arab Republic,Thailand,United Republic of Tanzania,United States of America,Western Sahara;Réunion
+39900;Catopuma temminckii;0;Animalia;Mammalia;Carnivora;Felidae;Catopuma;temminckii;I;Bangladesh,Bhutan,Cambodia,China,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Nepal,Thailand,Viet Nam;
+39800;Batagur baska;0;Animalia;Reptilia;Testudines;Geoemydidae;Batagur;baska;I;Bangladesh,Cambodia,India,Indonesia,Malaysia,Myanmar;Thailand,Viet Nam
+39800;Hyperoodon ampullatus;0;Animalia;Mammalia;Cetacea;Ziphiidae;Hyperoodon;ampullatus;I;Belgium,Canada,Denmark,Faroe Islands,France,Germany,Greenland,Iceland,Ireland,Netherlands,Norway,Portugal,Svalbard and Jan Mayen Islands,Sweden,United Kingdom of Great Britain and Northern Ireland,United States of America;
+39800;Lontra felina;0;Animalia;Mammalia;Carnivora;Mustelidae;Lontra;felina;I;Argentina,Chile,Peru;
+39700;Lygodactylus williamsi;0;Animalia;Reptilia;Sauria;Gekkonidae;Lygodactylus;williamsi;I;United Republic of Tanzania;
+39600;Bubalus depressicornis;0;Animalia;Mammalia;Artiodactyla;Bovidae;Bubalus;depressicornis;I;Indonesia;
+39500;Grus nigricollis;0;Animalia;Aves;Gruiformes;Gruidae;Grus;nigricollis;I;Bhutan,China,India,Myanmar,Nepal,Viet Nam;
+39200;Hippocamelus bisulcus;0;Animalia;Mammalia;Artiodactyla;Cervidae;Hippocamelus;bisulcus;I;Argentina,Chile;
+39200;Eulemur macaco;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;macaco;I;Madagascar;
+39000;Pangasianodon gigas;0;Animalia;Actinopteri;Siluriformes;Pangasiidae;Pangasianodon;gigas;I;Cambodia,Lao People's Democratic Republic,Thailand,Viet Nam;
+38800;Monachus schauinslandi;0;Animalia;Mammalia;Carnivora;Phocidae;Monachus;schauinslandi;I;United States of America;
+38700;Enhydra lutris nereis;0;Animalia;Mammalia;Carnivora;Mustelidae;Enhydra;lutris;I;Canada,Mexico,United States of America;
+38600;Romerolagus diazi;0;Animalia;Mammalia;Lagomorpha;Leporidae;Romerolagus;diazi;I;Mexico;
+38600;Chlamydotis macqueenii;0;Animalia;Aves;Gruiformes;Otididae;Chlamydotis;macqueenii;I;Afghanistan,Azerbaijan,Bahrain,Belgium,China,Cyprus,Czech Republic,Denmark,Egypt,Finland,France,Germany,Greece,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Jordan,Kazakhstan,Kyrgyzstan,Latvia,Lebanon,Mongolia,Netherlands,Oman,Pakistan,Poland,Qatar,Romania,Russian Federation,Saudi Arabia,Slovakia,Slovenia,Sudan,Sweden,Switzerland,Syrian Arab Republic,Tajikistan,Turkmenistan,Ukraine,United Arab Emirates,Uzbekistan,Yemen;Armenia,Kuwait
+38400;Grus leucogeranus;0;Animalia;Aves;Gruiformes;Gruidae;Grus;leucogeranus;I;Azerbaijan,China,India,Iran (Islamic Republic of),Kazakhstan,Mongolia,Pakistan,Russian Federation,Uzbekistan;
+37900;Macrocephalon maleo;0;Animalia;Aves;Galliformes;Megapodiidae;Macrocephalon;maleo;I;Indonesia;
+37800;Ara rubrogenys;0;Animalia;Aves;Psittaciformes;Psittacidae;Ara;rubrogenys;I;Bolivia (Plurinational State of);
+37700;Babyrousa babyrussa;0;Animalia;Mammalia;Artiodactyla;Suidae;Babyrousa;babyrussa;I;Indonesia;
+37600;Neofelis diardi;0;Animalia;Mammalia;Carnivora;Felidae;Neofelis;diardi;I;Brunei Darussalam,Indonesia,Malaysia,Singapore;
+37600;Cyanoramphus novaezelandiae;0;Animalia;Aves;Psittaciformes;Psittacidae;Cyanoramphus;novaezelandiae;I;Australia,New Zealand;
+37100;Grus vipio;0;Animalia;Aves;Gruiformes;Gruidae;Grus;vipio;I;China,Democratic People's Republic of Korea,Japan,Kazakhstan,Mongolia,Republic of Korea,Russian Federation,Taiwan, Province of China;
+37000;Oreophasis derbianus;0;Animalia;Aves;Galliformes;Cracidae;Oreophasis;derbianus;I;Guatemala,Mexico;
+36900;Saimiri oerstedii;0;Animalia;Mammalia;Primates;Cebidae;Saimiri;oerstedii;I;Costa Rica,Panama;
+36900;Hylobates agilis;0;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;agilis;I;Indonesia,Malaysia,Thailand;
+36900;Caperea marginata;0;Animalia;Mammalia;Cetacea;Neobalaenidae;Caperea;marginata;I;Argentina,Australia,Chile,Falkland Islands (Malvinas),French Southern and Antarctic Territories,Namibia,New Zealand,South Africa;
+36800;Grus monacha;0;Animalia;Aves;Gruiformes;Gruidae;Grus;monacha;I;China,Democratic People's Republic of Korea,India,Japan,Kazakhstan,Mongolia,Republic of Korea,Russian Federation,Taiwan, Province of China;
+36800;Strigops habroptila;0;Animalia;Aves;Psittaciformes;Psittacidae;Strigops;habroptila;I;New Zealand;
+36800;Amazona vittata;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;vittata;I;Puerto Rico;
+36400;Cyclura nubila;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;nubila;I;Cayman Islands (United Kingdom),Cuba;
+35700;Testudo kleinmanni;0;Animalia;Reptilia;Testudines;Testudinidae;Testudo;kleinmanni;I;Egypt,Israel,Libya;State of Palestine
+35500;Amazona leucocephala;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;leucocephala;I;Bahamas,Cayman Islands (United Kingdom),Cuba;
+35500;Anas laysanensis;0;Animalia;Aves;Anseriformes;Anatidae;Anas;laysanensis;I;United States of America;
+35400;Sanzinia madagascariensis;0;Animalia;Reptilia;Serpentes;Boidae;Sanzinia;madagascariensis;I;Madagascar;
+35400;Abies guatemalensis;0;Plantae;;Pinales;Pinaceae;Abies;guatemalensis;I;El Salvador,Guatemala,Honduras,Mexico;
+35200;Trichechus senegalensis;0;Animalia;Mammalia;Sirenia;Trichechidae;Trichechus;senegalensis;I;Angola,Benin,Cameroon,Chad,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Gambia,Ghana,Guinea,Liberia,Mali,Mauritania,Niger,Nigeria,Senegal,Sierra Leone,Togo;
+34200;Neophocaena asiaeorientalis;0;Animalia;Mammalia;Cetacea;Phocoenidae;Neophocaena;asiaeorientalis;I;China,Democratic People's Republic of Korea,Japan,Republic of Korea,Taiwan, Province of China;
+33700;Totoaba macdonaldi;0;Animalia;Actinopteri;Perciformes;Sciaenidae;Totoaba;macdonaldi;I;Mexico;
+33700;Pristis pristis;0;Animalia;Elasmobranchii;Pristiformes;Pristidae;Pristis;pristis;I;Australia,Bangladesh,Belize,Brazil,Cabo Verde,Colombia,Costa Rica,El Salvador,French Guiana [FR],Gibraltar (United Kingdom),Greece,Guinea Bissau,Guyana,Honduras,India,Indonesia,Italy,Kenya,Madagascar,Mali,Mauritania,Morocco,Mozambique,Nicaragua,Oman,Pakistan,Panama,Papua New Guinea,Philippines,Portugal,Sao Tome and Principe,Sierra Leone,Somalia,Suriname,Syrian Arab Republic,Togo,United Republic of Tanzania,United States of America,Viet Nam,Western Sahara;
+33600;Brachyteles arachnoides;0;Animalia;Mammalia;Primates;Atelidae;Brachyteles;arachnoides;I;Brazil;
+33500;Rhinoplax vigil;0;Animalia;Aves;Coraciiformes;Bucerotidae;Rhinoplax;vigil;I;Brunei Darussalam,Indonesia,Malaysia,Myanmar,Thailand;Singapore
+33400;Prolemur simus;0;Animalia;Mammalia;Primates;Lemuridae;Prolemur;simus;I;Madagascar;
+32900;Catagonus wagneri;0;Animalia;Mammalia;Artiodactyla;Tayassuidae;Catagonus;wagneri;I;Argentina,Bolivia (Plurinational State of),Paraguay;
+32700;Aceros nipalensis;0;Animalia;Aves;Coraciiformes;Bucerotidae;Aceros;nipalensis;I;Bhutan,China,India,Lao People's Democratic Republic,Myanmar,Nepal,Thailand,Viet Nam;Bangladesh
+32700;Berardius bairdii;0;Animalia;Mammalia;Cetacea;Ziphiidae;Berardius;bairdii;I;Canada,Democratic People's Republic of Korea,Japan,Mexico,Republic of Korea,Russian Federation,United States of America;
+32000;Ornithoptera alexandrae;0;Animalia;Insecta;Lepidoptera;Papilionidae;Ornithoptera;alexandrae;I;Papua New Guinea;
+31700;Pudu puda;0;Animalia;Mammalia;Artiodactyla;Cervidae;Pudu;puda;I;Argentina,Chile;
+31600;Ara glaucogularis;0;Animalia;Aves;Psittaciformes;Psittacidae;Ara;glaucogularis;I;Bolivia (Plurinational State of);
+31500;Rucervus eldii;0;Animalia;Mammalia;Artiodactyla;Cervidae;Rucervus;eldii;I;Cambodia,China,India,Lao People's Democratic Republic,Myanmar;
+31400;Malacochersus tornieri;0;Animalia;Reptilia;Testudines;Testudinidae;Malacochersus;tornieri;I;Kenya,United Republic of Tanzania,Zambia;
+31300;Cyclura lewisi;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;lewisi;I;Cayman Islands (United Kingdom);
+31200;Acerodon jubatus;0;Animalia;Mammalia;Chiroptera;Pteropodidae;Acerodon;jubatus;I;Philippines;
+30900;Numenius borealis;0;Animalia;Aves;Charadriiformes;Scolopacidae;Numenius;borealis;I;Canada,United States of America;
+30800;Manis crassicaudata;0;Animalia;Mammalia;Pholidota;Manidae;Manis;crassicaudata;I;Bangladesh,China,India,Nepal,Pakistan,Sri Lanka;
+30600;Tringa guttifer;0;Animalia;Aves;Charadriiformes;Scolopacidae;Tringa;guttifer;I;Bangladesh,Cambodia,China,Democratic People's Republic of Korea,Guam,Hong Kong, SAR,India,Indonesia,Japan,Malaysia,Myanmar,Philippines,Republic of Korea,Russian Federation,Singapore,Taiwan, Province of China,Thailand,Viet Nam;
+30400;Propithecus diadema;0;Animalia;Mammalia;Primates;Indriidae;Propithecus;diadema;I;Madagascar;
+30300;Falco pelegrinoides;0;Animalia;Aves;Falconiformes;Falconidae;Falco;pelegrinoides;I;Afghanistan,Algeria,Burkina Faso,Cameroon,China,Djibouti,Egypt,Eritrea,Ethiopia,Greece,India,Iran (Islamic Republic of),Iraq,Israel,Italy,Jordan,Kazakhstan,Kenya,Kyrgyzstan,Libya,Mali,Malta,Morocco,Nepal,Niger,Nigeria,Oman,Pakistan,Portugal,Saudi Arabia,Senegal,Somalia,Spain,Sudan,Syrian Arab Republic,Tajikistan,Tunisia,Turkey,Turkmenistan,Uzbekistan,Yemen;
+30300;Ovis vignei;0;Animalia;Mammalia;Artiodactyla;Bovidae;Ovis;vignei;I;India,Pakistan;
+29700;Houbaropsis bengalensis;0;Animalia;Aves;Gruiformes;Otididae;Houbaropsis;bengalensis;I;India,Nepal,Viet Nam;Bangladesh
+29400;Amazona vinacea;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;vinacea;I;Argentina,Brazil,Paraguay;
+29200;Carduelis cucullata;0;Animalia;Aves;Passeriformes;Fringillidae;Carduelis;cucullata;I;Colombia,Guyana,Venezuela (Bolivarian Republic of);Trinidad and Tobago
+29200;Leontopithecus chrysomelas;0;Animalia;Mammalia;Primates;Cebidae;Leontopithecus;chrysomelas;I;Brazil;
+29000;Lasiorhinus krefftii;0;Animalia;Mammalia;Diprotodontia;Vombatidae;Lasiorhinus;krefftii;I;Australia;
+28800;Anodorhynchus leari;0;Animalia;Aves;Psittaciformes;Psittacidae;Anodorhynchus;leari;I;Brazil;
+28700;Pyxis arachnoides;0;Animalia;Reptilia;Testudines;Testudinidae;Pyxis;arachnoides;I;Madagascar;
+28700;Caprolagus hispidus;0;Animalia;Mammalia;Lagomorpha;Leporidae;Caprolagus;hispidus;I;Bangladesh,Bhutan,India,Nepal;
+28500;Atelopus zeteki;0;Animalia;Amphibia;Anura;Bufonidae;Atelopus;zeteki;I;Panama;
+28400;Cacajao calvus;0;Animalia;Mammalia;Primates;Pitheciidae;Cacajao;calvus;I;Brazil,Peru;
+28400;Asarcornis scutulata;0;Animalia;Aves;Anseriformes;Anatidae;Asarcornis;scutulata;I;Bangladesh,Cambodia,India,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand,Viet Nam;
+28300;Capricornis sumatraensis;0;Animalia;Mammalia;Artiodactyla;Bovidae;Capricornis;sumatraensis;I;Indonesia,Malaysia,Thailand;
+28200;Brachylophus fasciatus;0;Animalia;Reptilia;Sauria;Iguanidae;Brachylophus;fasciatus;I;Fiji;
+28100;Hapalemur griseus;0;Animalia;Mammalia;Primates;Lemuridae;Hapalemur;griseus;I;Madagascar;
+28100;Eubalaena japonica;0;Animalia;Mammalia;Cetacea;Balaenidae;Eubalaena;japonica;I;Canada,China,Democratic People's Republic of Korea,Japan,Mexico,Republic of Korea,Russian Federation,Taiwan, Province of China,United States of America;
+27400;Phoebastria albatrus;0;Animalia;Aves;Procellariiformes;Diomedeidae;Phoebastria;albatrus;I;Canada,China,Democratic People's Republic of Korea,Japan,Marshall Islands,Mexico,Micronesia (Federated States of),Republic of Korea,Russian Federation,Taiwan, Province of China,United States of America;
+27400;Amazona viridigenalis;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;viridigenalis;I;Mexico;
+27200;Rucervus duvaucelii;0;Animalia;Mammalia;Artiodactyla;Cervidae;Rucervus;duvaucelii;I;Bhutan,India,Nepal;Bangladesh,Pakistan
+26900;Ognorhynchus icterotis;0;Animalia;Aves;Psittaciformes;Psittacidae;Ognorhynchus;icterotis;I;Colombia,Ecuador;
+26500;Callithrix aurita;0;Animalia;Mammalia;Primates;Cebidae;Callithrix;aurita;I;Brazil;
+26400;Pterocnemia pennata;0;Animalia;Aves;Rheiformes;Rheidae;Pterocnemia;pennata;I;Argentina,Bolivia (Plurinational State of),Chile,Peru;
+26000;Gazella cuvieri;0;Animalia;Mammalia;Artiodactyla;Bovidae;Gazella;cuvieri;I;Algeria,Morocco,Tunisia,Western Sahara;
+26000;Rhodonessa caryophyllacea;0;Animalia;Aves;Anseriformes;Anatidae;Rhodonessa;caryophyllacea;I;;Bangladesh,India,Nepal
+25900;Nanger dama;0;Animalia;Mammalia;Artiodactyla;Bovidae;Nanger;dama;I;Algeria,Chad,Egypt,Mali,Morocco,Niger;Libya,Mauritania,Senegal,Tunisia
+25900;Saguinus bicolor;0;Animalia;Mammalia;Primates;Cebidae;Saguinus;bicolor;I;Brazil;
+25900;Bettongia penicillata;0;Animalia;Mammalia;Diprotodontia;Potoroidae;Bettongia;penicillata;I;Australia;
+25900;Gazella leptoceros;0;Animalia;Mammalia;Artiodactyla;Bovidae;Gazella;leptoceros;I;Algeria,Chad,Egypt,Libya,Mali,Niger,Sudan,Tunisia;
+25600;Cheirogaleus medius;0;Animalia;Mammalia;Primates;Cheirogaleidae;Cheirogaleus;medius;I;Madagascar;
+25400;Mycteria cinerea;0;Animalia;Aves;Ciconiiformes;Ciconiidae;Mycteria;cinerea;I;Cambodia,Indonesia,Malaysia,Viet Nam;Thailand
+25400;Rhynochetos jubatus;0;Animalia;Aves;Gruiformes;Rhynochetidae;Rhynochetos;jubatus;I;New Caledonia;
+25400;Cacatua haematuropygia;0;Animalia;Aves;Psittaciformes;Cacatuidae;Cacatua;haematuropygia;I;Philippines;
+24800;Neophema chrysogaster;0;Animalia;Aves;Psittaciformes;Psittacidae;Neophema;chrysogaster;I;Australia;
+24800;Eulemur coronatus;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;coronatus;I;Madagascar;
+24700;Nycticebus pygmaeus;0;Animalia;Mammalia;Primates;Lorisidae;Nycticebus;pygmaeus;I;China,Lao People's Democratic Republic,Viet Nam;
+24200;Microcebus rufus;0;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;rufus;I;Madagascar;
+24100;Saguinus geoffroyi;0;Animalia;Mammalia;Primates;Cebidae;Saguinus;geoffroyi;I;Colombia,Costa Rica,Honduras,Panama;
+24000;Hylobates pileatus;0;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;pileatus;I;Cambodia,Lao People's Democratic Republic,Thailand,Viet Nam;
+23900;Varanus nebulosus;0;Animalia;Reptilia;Sauria;Varanidae;Varanus;nebulosus;I;Cambodia,Indonesia,Lao People's Democratic Republic,Malaysia,Myanmar,Thailand,Viet Nam;
+23800;Amazona barbadensis;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;barbadensis;I;Aruba,Netherlands Antilles,Venezuela (Bolivarian Republic of);
+23600;Oreonax flavicauda;0;Animalia;Mammalia;Primates;Atelidae;Oreonax;flavicauda;I;Brazil,Peru;
+23500;Trachypithecus pileatus;0;Animalia;Mammalia;Primates;Cercopithecidae;Trachypithecus;pileatus;I;Bangladesh,Bhutan,India,Myanmar;
+23500;Chelonoidis niger;0;Animalia;Reptilia;Testudines;Testudinidae;Chelonoidis;niger;I;Ecuador;
+23400;Hippocamelus antisensis;0;Animalia;Mammalia;Artiodactyla;Cervidae;Hippocamelus;antisensis;I;Argentina,Bolivia (Plurinational State of),Chile,Ecuador,Peru;
+23200;Dama dama mesopotamica;0;Animalia;Mammalia;Artiodactyla;Cervidae;Dama;dama;I;Iran (Islamic Republic of),Iraq;Israel,Jordan,Lebanon
+23100;Naemorhedus goral;0;Animalia;Mammalia;Artiodactyla;Bovidae;Naemorhedus;goral;I;Bhutan,China,India,Nepal,Pakistan;
+23000;Lagostrophus fasciatus;0;Animalia;Mammalia;Diprotodontia;Macropodidae;Lagostrophus;fasciatus;I;Australia;
+22900;Leopardus jacobita;0;Animalia;Mammalia;Carnivora;Felidae;Leopardus;jacobita;I;Argentina,Bolivia (Plurinational State of),Chile,Peru;
+22800;Amazona finschi;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;finschi;I;Mexico;
+22500;Ursus arctos isabellinus;0;Animalia;Mammalia;Carnivora;Ursidae;Ursus;arctos;I/II;Afghanistan,China,India,Kazakhstan,Kyrgyzstan,Mongolia,Nepal,Pakistan,Tajikistan,Uzbekistan;
+22500;Ursus arctos isabellinus;0;Animalia;Mammalia;Carnivora;Ursidae;Ursus;arctos;I/II;Afghanistan,China,India,Kazakhstan,Kyrgyzstan,Mongolia,Nepal,Pakistan,Tajikistan,Uzbekistan;
+22500;Ursus arctos isabellinus;0;Animalia;Mammalia;Carnivora;Ursidae;Ursus;arctos;I/II;Afghanistan,China,India,Kazakhstan,Kyrgyzstan,Mongolia,Nepal,Pakistan,Tajikistan,Uzbekistan;
+22400;Ardeotis nigriceps;0;Animalia;Aves;Gruiformes;Otididae;Ardeotis;nigriceps;I;India,Pakistan;
+22200;Bubalus mindorensis;0;Animalia;Mammalia;Artiodactyla;Bovidae;Bubalus;mindorensis;I;Philippines;
+22200;Syrmaticus mikado;0;Animalia;Aves;Galliformes;Phasianidae;Syrmaticus;mikado;I;Taiwan, Province of China;
+22200;Eulemur rubriventer;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;rubriventer;I;Madagascar;
+22100;Moschus chrysogaster;0;Animalia;Mammalia;Artiodactyla;Moschidae;Moschus;chrysogaster;I/II;Bhutan,China,India,Nepal;
+21900;Prionailurus planiceps;0;Animalia;Mammalia;Carnivora;Felidae;Prionailurus;planiceps;I;Brunei Darussalam,Indonesia,Malaysia,Myanmar,Thailand;
+21800;Balaenoptera omurai;0;Animalia;Mammalia;Cetacea;Balaenopteridae;Balaenoptera;omurai;I;Brazil,Cocos (Keeling) Islands,Japan;
+21700;Amazona brasiliensis;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;brasiliensis;I;Brazil,Uruguay;
+21600;Saguinus leucopus;0;Animalia;Mammalia;Primates;Cebidae;Saguinus;leucopus;I;Colombia;
+21500;Amazona guildingii;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;guildingii;I;Saint Vincent and the Grenadines;
+21200;Microcebus berthae;0;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;berthae;I;Madagascar;
+21200;Primolius maracana;0;Animalia;Aves;Psittaciformes;Psittacidae;Primolius;maracana;I;Brazil,Paraguay;Argentina
+21200;Eulemur mongoz;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;mongoz;I;Comoros,Madagascar;
+21200;Probarbus jullieni;0;Animalia;Actinopteri;Cypriniformes;Cyprinidae;Probarbus;jullieni;I;Cambodia,Lao People's Democratic Republic,Malaysia,Thailand,Viet Nam;
+21200;Cacatua goffiniana;0;Animalia;Aves;Psittaciformes;Cacatuidae;Cacatua;goffiniana;I;Indonesia,Solomon Islands;
+21100;Astrochelys yniphora;0;Animalia;Reptilia;Testudines;Testudinidae;Astrochelys;yniphora;I;Madagascar;
+21100;Hylobates muelleri;0;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;muelleri;I;Brunei Darussalam,Indonesia,Malaysia;
+20900;Lophura swinhoii;0;Animalia;Aves;Galliformes;Phasianidae;Lophura;swinhoii;I;Taiwan, Province of China;
+20800;Monachus tropicalis;0;Animalia;Mammalia;Carnivora;Phocidae;Monachus;tropicalis;I;;Bahamas,Colombia,Cuba,Guadeloupe,Haiti,Honduras,Jamaica,Mexico,Puerto Rico,United States of America
+20700;Arctocephalus townsendi;0;Animalia;Mammalia;Carnivora;Otariidae;Arctocephalus;townsendi;I;Mexico,United States of America;
+20500;Telmatobius culeus;0;Animalia;Amphibia;Anura;Telmatobiidae;Telmatobius;culeus;I;Bolivia (Plurinational State of),Peru;
+20500;Bos sauveli;0;Animalia;Mammalia;Artiodactyla;Bovidae;Bos;sauveli;I;;
+20300;Syrmaticus humiae;0;Animalia;Aves;Galliformes;Phasianidae;Syrmaticus;humiae;I;China,India,Myanmar,Thailand;
+20200;Xanthopsar flavus;0;Animalia;Aves;Passeriformes;Icteridae;Xanthopsar;flavus;I;Argentina,Brazil,Paraguay,Uruguay;
+20200;Tragopan melanocephalus;0;Animalia;Aves;Galliformes;Phasianidae;Tragopan;melanocephalus;I;India,Pakistan;
+20100;Geochelone platynota;0;Animalia;Reptilia;Testudines;Testudinidae;Geochelone;platynota;I;Myanmar;
+20000;Cercocebus galeritus;0;Animalia;Mammalia;Primates;Cercopithecidae;Cercocebus;galeritus;I;Kenya;
+19800;Gallotia simonyi;0;Animalia;Reptilia;Sauria;Lacertidae;Gallotia;simonyi;I;Spain;
+19500;Sus salvanius;0;Animalia;Mammalia;Artiodactyla;Suidae;Sus;salvanius;I;Bhutan,India;Bangladesh,Nepal
+19500;Fregata andrewsi;0;Animalia;Aves;Pelecaniformes;Fregatidae;Fregata;andrewsi;I;Australia,Brunei Darussalam,China,Christmas Island,Cocos (Keeling) Islands,Hong Kong, SAR,India,Indonesia,Japan,Kenya,Malaysia,Singapore,Sri Lanka,Thailand,Timor-Leste,Viet Nam;
+19300;Larus relictus;0;Animalia;Aves;Charadriiformes;Laridae;Larus;relictus;I;China,Hong Kong, SAR,Japan,Kazakhstan,Mongolia,Republic of Korea,Russian Federation,Viet Nam;
+18900;Aloe pillansii;0;Plantae;;Liliales;Liliaceae;Aloe;pillansii;I;Namibia,South Africa;
+18700;Falco jugger;0;Animalia;Aves;Falconiformes;Falconidae;Falco;jugger;I;Afghanistan,Bangladesh,India,Iran (Islamic Republic of),Kazakhstan,Myanmar,Nepal,Pakistan,Tajikistan,Turkmenistan,Viet Nam;
+18700;Falco punctatus;0;Animalia;Aves;Falconiformes;Falconidae;Falco;punctatus;I;Mauritius;
+18600;Catreus wallichii;0;Animalia;Aves;Galliformes;Phasianidae;Catreus;wallichii;I;India,Nepal,Pakistan;
+18500;Manis tricuspis;0;Animalia;Mammalia;Pholidota;Manidae;Manis;tricuspis;I;Angola,Benin,Cameroon,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Ghana,Guinea,Kenya,Liberia,Nigeria,Rwanda,Sierra Leone,South Sudan,Togo,Uganda,Zambia;
+18300;Allocebus trichotis;0;Animalia;Mammalia;Primates;Cheirogaleidae;Allocebus;trichotis;I;Madagascar;
+18200;Pristis microdon;0;Animalia;Elasmobranchii;Pristiformes;Pristidae;Pristis;microdon;I;Australia,Bangladesh,Belize,Brazil,Cambodia,Colombia,Costa Rica,French Guiana [FR],Gambia,Guatemala,Guinea Bissau,Honduras,India,Indonesia,Kenya,Madagascar,Malaysia,Mauritius,Mexico,Mozambique,Nicaragua,Panama,Papua New Guinea,Philippines,Senegal,South Africa,Sri Lanka,Suriname,Thailand,Viet Nam,Zimbabwe;Réunion
+18200;Crocodylus cataphractus;0;Animalia;Reptilia;Crocodylia;Crocodylidae;Crocodylus;cataphractus;I;Angola,Benin,Burkina Faso,Burundi,Cameroon,Central African Republic,Chad,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Gambia,Ghana,Guinea,Guinea Bissau,Liberia,Mali,Mauritania,Nigeria,Senegal,Sierra Leone,Togo,United Republic of Tanzania,Zambia;
+18100;Acrantophis dumerili;0;Animalia;Reptilia;Serpentes;Boidae;Acrantophis;dumerili;I;Madagascar;
+17800;Boa constrictor occidentalis;0;Animalia;Reptilia;Serpentes;Boidae;Boa;constrictor;I;Argentina,Paraguay;
+17800;Amazona pretrei;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;pretrei;I;Argentina,Brazil,Paraguay;
+17600;Equus hemionus khur;0;Animalia;Mammalia;Perissodactyla;Equidae;Equus;hemionus;I;India,Pakistan;
+17500;Amazona imperialis;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;imperialis;I;Dominica;
+17500;Amazona versicolor;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;versicolor;I;Saint Lucia;
+17300;Manis temminckii;0;Animalia;Mammalia;Pholidota;Manidae;Manis;temminckii;I;Angola,Botswana,Central African Republic,Chad,Eswatini,Ethiopia,Kenya,Lesotho,Malawi,Mozambique,Namibia,Rwanda,South Africa,South Sudan,Sudan,Uganda,United Republic of Tanzania,Zambia,Zimbabwe;
+17200;Glyptemys muhlenbergii;0;Animalia;Reptilia;Testudines;Emydidae;Glyptemys;muhlenbergii;I;United States of America;
+17100;Geoclemys hamiltonii;0;Animalia;Reptilia;Testudines;Geoemydidae;Geoclemys;hamiltonii;I;Bangladesh,India,Nepal,Pakistan;
+17000;Tetraogallus tibetanus;0;Animalia;Aves;Galliformes;Phasianidae;Tetraogallus;tibetanus;I;Afghanistan,Bhutan,China,India,Myanmar,Nepal,Tajikistan;
+16900;Amazona rhodocorytha;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;rhodocorytha;I;Brazil;
+16800;Pseudochelidon sirintarae;0;Animalia;Aves;Passeriformes;Hirundinidae;Pseudochelidon;sirintarae;I;Thailand;
+16800;Nycticebus bengalensis;0;Animalia;Mammalia;Primates;Lorisidae;Nycticebus;bengalensis;I;Bangladesh,Bhutan,Cambodia,China,India,Lao People's Democratic Republic,Myanmar,Thailand,Viet Nam;
+16700;Terrapene coahuila;0;Animalia;Reptilia;Testudines;Emydidae;Terrapene;coahuila;I;Mexico;
+16600;Trachypithecus geei;0;Animalia;Mammalia;Primates;Cercopithecidae;Trachypithecus;geei;I;Bhutan,India;
+16600;Pristis zijsron;0;Animalia;Elasmobranchii;Pristiformes;Pristidae;Pristis;zijsron;I;Australia,Cambodia,China,India,Indonesia,Malaysia,Mauritius,Mozambique,Oman,Pakistan,Papua New Guinea,Philippines,South Africa,Sri Lanka,Thailand,Viet Nam;
+16600;Encephalartos natalensis;0;Plantae;;Cycadales;Zamiaceae;Encephalartos;natalensis;I;South Africa;
+16500;Neurergus kaiseri;0;Animalia;Amphibia;Caudata;Salamandridae;Neurergus;kaiseri;I;Iran (Islamic Republic of);
+16400;Anodorhynchus glaucus;0;Animalia;Aves;Psittaciformes;Psittacidae;Anodorhynchus;glaucus;I;Argentina,Brazil;Paraguay,Uruguay
+16200;Nomascus concolor;0;Animalia;Mammalia;Primates;Hylobatidae;Nomascus;concolor;I;China,Lao People's Democratic Republic,Viet Nam;
+16200;Axis kuhlii;0;Animalia;Mammalia;Artiodactyla;Cervidae;Axis;kuhlii;I;Indonesia;
+16000;Leontopithecus chrysopygus;0;Animalia;Mammalia;Primates;Cebidae;Leontopithecus;chrysopygus;I;Brazil;
+15900;Babyrousa celebensis;0;Animalia;Mammalia;Artiodactyla;Suidae;Babyrousa;celebensis;I;Indonesia;
+15900;Gopherus flavomarginatus;0;Animalia;Reptilia;Testudines;Testudinidae;Gopherus;flavomarginatus;I;Mexico;
+15900;Avahi laniger;0;Animalia;Mammalia;Primates;Indriidae;Avahi;laniger;I;Madagascar;
+15800;Mauremys annamensis;0;Animalia;Reptilia;Testudines;Geoemydidae;Mauremys;annamensis;I;Viet Nam;
+15800;Sousa plumbea;0;Animalia;Mammalia;Cetacea;Delphinidae;Sousa;plumbea;I;Bahrain,Bangladesh,Comoros,Djibouti,Egypt,Eritrea,Ethiopia,India,Iran (Islamic Republic of),Iraq,Kenya,Kuwait,Madagascar,Malaysia,Mozambique,Myanmar,Oman,Pakistan,Papua New Guinea,Philippines,Qatar,Saudi Arabia,Somalia,South Africa,Sri Lanka,Sudan,United Arab Emirates,United Republic of Tanzania,Yemen;
+15700;Bettongia tropica;0;Animalia;Mammalia;Diprotodontia;Potoroidae;Bettongia;tropica;I;Australia;
+15700;Pteropus mariannus;0;Animalia;Mammalia;Chiroptera;Pteropodidae;Pteropus;mariannus;I;Guam,Northern Mariana Islands;
+15600;Hapalemur aureus;0;Animalia;Mammalia;Primates;Lemuridae;Hapalemur;aureus;I;Madagascar;
+15600;Naemorhedus caudatus;0;Animalia;Mammalia;Artiodactyla;Bovidae;Naemorhedus;caudatus;I;China,Democratic People's Republic of Korea,Republic of Korea,Russian Federation;
+15500;Bettongia lesueur;0;Animalia;Mammalia;Diprotodontia;Potoroidae;Bettongia;lesueur;I;Australia;
+15500;Lophura edwardsi;0;Animalia;Aves;Galliformes;Phasianidae;Lophura;edwardsi;I;Viet Nam;
+15300;Tragopan caboti;0;Animalia;Aves;Galliformes;Phasianidae;Tragopan;caboti;I;China;
+15300;Anoxypristis cuspidata;0;Animalia;Elasmobranchii;Pristiformes;Pristidae;Anoxypristis;cuspidata;I;Australia,Bangladesh,Cambodia,China,Egypt,India,Indonesia,Iran (Islamic Republic of),Iraq,Japan,Oman,Pakistan,Papua New Guinea,Philippines,Singapore,Sri Lanka,Taiwan, Province of China,Viet Nam;
+15100;Bettongia gaimardi;0;Animalia;Mammalia;Diprotodontia;Potoroidae;Bettongia;gaimardi;I;Australia;
+15100;Varanus flavescens;0;Animalia;Reptilia;Sauria;Varanidae;Varanus;flavescens;I;Bangladesh,India,Nepal,Pakistan;
+15100;Sousa teuszii;0;Animalia;Mammalia;Cetacea;Delphinidae;Sousa;teuszii;I;Angola,Benin,Cameroon,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Gambia,Guinea,Guinea Bissau,Liberia,Mauritania,Morocco,Senegal,Sierra Leone,Western Sahara;
+15000;Tetraogallus caspius;0;Animalia;Aves;Galliformes;Phasianidae;Tetraogallus;caspius;I;Armenia,Azerbaijan,Georgia,Iran (Islamic Republic of),Iraq,Turkey,Turkmenistan;
+15000;Lagorchestes hirsutus;0;Animalia;Mammalia;Diprotodontia;Macropodidae;Lagorchestes;hirsutus;I;Australia;
+14800;Rhynchopsitta pachyrhyncha;0;Animalia;Aves;Psittaciformes;Psittacidae;Rhynchopsitta;pachyrhyncha;I;Mexico;
+14700;Pezoporus occidentalis;0;Animalia;Aves;Psittaciformes;Psittacidae;Pezoporus;occidentalis;I;Australia;
+14600;Penelope albipennis;0;Animalia;Aves;Galliformes;Cracidae;Penelope;albipennis;I;Peru;
+14600;Pristis clavata;0;Animalia;Elasmobranchii;Pristiformes;Pristidae;Pristis;clavata;I;Australia;
+14600;Perameles bougainville;0;Animalia;Mammalia;Peramelemorphia;Peramelidae;Perameles;bougainville;I;Australia;
+14500;Picathartes oreas;0;Animalia;Aves;Passeriformes;Muscicapidae;Picathartes;oreas;I;Cameroon,Congo,Equatorial Guinea,Gabon,Nigeria;
+14300;Pteropus samoensis;0;Animalia;Mammalia;Chiroptera;Pteropodidae;Pteropus;samoensis;I;American Samoa,Fiji,Samoa;
+14300;Stangeria eriopus;0;Plantae;;Cycadales;Stangeriaceae;Stangeria;eriopus;I;Eswatini,Mozambique,South Africa;
+14200;Primolius couloni;0;Animalia;Aves;Psittaciformes;Psittacidae;Primolius;couloni;I;Bolivia (Plurinational State of),Peru;
+14000;Onychogalea fraenata;0;Animalia;Mammalia;Diprotodontia;Macropodidae;Onychogalea;fraenata;I;Australia;
+14000;Manis culionensis;0;Animalia;Mammalia;Pholidota;Manidae;Manis;culionensis;I;Philippines;
+14000;Semnopithecus dussumieri;0;Animalia;Mammalia;Primates;Cercopithecidae;Semnopithecus;dussumieri;I;India;
+13900;Crax blumenbachii;0;Animalia;Aves;Galliformes;Cracidae;Crax;blumenbachii;I;Brazil;
+13900;Piliocolobus kirkii;0;Animalia;Mammalia;Primates;Cercopithecidae;Piliocolobus;kirkii;I;United Republic of Tanzania;
+13800;Pipile jacutinga;0;Animalia;Aves;Galliformes;Cracidae;Pipile;jacutinga;I;Argentina,Brazil,Paraguay;
+13700;Tyto soumagnei;0;Animalia;Aves;Strigiformes;Tytonidae;Tyto;soumagnei;I;Madagascar;
+13600;Polyplectron napoleonis;0;Animalia;Aves;Galliformes;Phasianidae;Polyplectron;napoleonis;I;Philippines;
+13400;Pionopsitta pileata;0;Animalia;Aves;Psittaciformes;Psittacidae;Pionopsitta;pileata;I;Argentina,Brazil,Paraguay;
+13400;Papasula abbotti;0;Animalia;Aves;Pelecaniformes;Sulidae;Papasula;abbotti;I;Australia,Christmas Island,Indonesia;Mauritius,Seychelles
+13300;Muntiacus crinifrons;0;Animalia;Mammalia;Artiodactyla;Cervidae;Muntiacus;crinifrons;I;China,Myanmar;
+13300;Manis gigantea;0;Animalia;Mammalia;Pholidota;Manidae;Manis;gigantea;I;Angola,Cameroon,Chad,Congo,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Ghana,Guinea,Kenya,Liberia,Niger,Rwanda,Senegal,Sierra Leone,Uganda;
+13300;Rhinopithecus strykeri;0;Animalia;Mammalia;Primates;Cercopithecidae;Rhinopithecus;strykeri;I;Myanmar;
+13200;Sousa sahulensis;0;Animalia;Mammalia;Cetacea;Delphinidae;Sousa;sahulensis;I;Australia,Indonesia,Papua New Guinea;
+13100;Psephotus chrysopterygius;0;Animalia;Aves;Psittaciformes;Psittacidae;Psephotus;chrysopterygius;I;Australia;
+13100;Prionodon pardicolor;0;Animalia;Mammalia;Carnivora;Viverridae;Prionodon;pardicolor;I;Cambodia,China,India,Lao People's Democratic Republic,Myanmar,Nepal,Thailand,Viet Nam;
+13000;Tragopan blythii;0;Animalia;Aves;Galliformes;Phasianidae;Tragopan;blythii;I;Bhutan,China,India,Myanmar;
+13000;Psephotus dissimilis;0;Animalia;Aves;Psittaciformes;Psittacidae;Psephotus;dissimilis;I;Australia;
+13000;Acrantophis madagascariensis;0;Animalia;Reptilia;Serpentes;Boidae;Acrantophis;madagascariensis;I;Madagascar;
+12900;Crossoptilon crossoptilon;0;Animalia;Aves;Galliformes;Phasianidae;Crossoptilon;crossoptilon;I;China;
+12800;Brachylophus vitiensis;0;Animalia;Reptilia;Sauria;Iguanidae;Brachylophus;vitiensis;I;Fiji;
+12800;Python molurus molurus;0;Animalia;Reptilia;Serpentes;Pythonidae;Python;molurus;I;Bangladesh,India,Nepal,Pakistan,Sri Lanka;
+12700;Casarea dussumieri;0;Animalia;Reptilia;Serpentes;Bolyeriidae;Casarea;dussumieri;I;Mauritius;
+12600;Syrmaticus ellioti;0;Animalia;Aves;Galliformes;Phasianidae;Syrmaticus;ellioti;I;China;
+12500;Encephalartos woodii;0;Plantae;;Cycadales;Zamiaceae;Encephalartos;woodii;I;;South Africa
+12500;Escobaria sneedii;0;Plantae;;Caryophyllales;Cactaceae;Escobaria;sneedii;I;Mexico,United States of America;
+12500;Equus hemionus hemionus;0;Animalia;Mammalia;Perissodactyla;Equidae;Equus;hemionus;I;China,Kazakhstan,Mongolia,Russian Federation;
+12400;Psammobates geometricus;0;Animalia;Reptilia;Testudines;Testudinidae;Psammobates;geometricus;I;South Africa;
+12200;Batagur affinis;0;Animalia;Reptilia;Testudines;Geoemydidae;Batagur;affinis;I;Cambodia,Indonesia,Malaysia;Singapore,Viet Nam
+12100;Psephotus pulcherrimus;0;Animalia;Aves;Psittaciformes;Psittacidae;Psephotus;pulcherrimus;I;;Australia
+12100;Anas aucklandica;0;Animalia;Aves;Anseriformes;Anatidae;Anas;aucklandica;I;New Caledonia,New Zealand;
+12000;Amazona arausiaca;0;Animalia;Aves;Psittaciformes;Psittacidae;Amazona;arausiaca;I;Dominica;
+12000;Incilius periglenes;0;Animalia;Amphibia;Anura;Bufonidae;Incilius;periglenes;I;;Costa Rica
+11800;Podilymbus gigas;0;Animalia;Aves;Podicipediformes;Podicipedidae;Podilymbus;gigas;I;;Guatemala
+11600;Epicrates subflavus;0;Animalia;Reptilia;Serpentes;Boidae;Epicrates;subflavus;I;Jamaica;
+11400;Pseudemydura umbrina;0;Animalia;Reptilia;Testudines;Chelidae;Pseudemydura;umbrina;I;Australia;
+11300;Lophophorus lhuysii;0;Animalia;Aves;Galliformes;Phasianidae;Lophophorus;lhuysii;I;China;
+11100;Picathartes gymnocephalus;0;Animalia;Aves;Passeriformes;Muscicapidae;Picathartes;gymnocephalus;I;Côte d'Ivoire,Ghana,Guinea,Liberia,Sierra Leone;
+11100;Pyxis planicauda;0;Animalia;Reptilia;Testudines;Testudinidae;Pyxis;planicauda;I;Madagascar;
+10900;Cotinga maculata;0;Animalia;Aves;Passeriformes;Cotingidae;Cotinga;maculata;I;Brazil;
+10900;Eulemur albifrons;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;albifrons;I;Madagascar;
+10900;Pipile pipile;0;Animalia;Aves;Galliformes;Cracidae;Pipile;pipile;I;Trinidad and Tobago;
+10800;Epicrates inornatus;0;Animalia;Reptilia;Serpentes;Boidae;Epicrates;inornatus;I;Puerto Rico;
+10800;Microcebus ravelobensis;0;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;ravelobensis;I;Madagascar;
+10700;Hylobates klossii;0;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;klossii;I;Indonesia;
+10700;Propithecus edwardsi;0;Animalia;Mammalia;Primates;Indriidae;Propithecus;edwardsi;I;Madagascar;
+10600;Lophophorus sclateri;0;Animalia;Aves;Galliformes;Phasianidae;Lophophorus;sclateri;I;China,India,Myanmar;
+10500;Nomascus hainanus;0;Animalia;Mammalia;Primates;Hylobatidae;Nomascus;hainanus;I;China;
+10500;Presbytis potenziani;0;Animalia;Mammalia;Primates;Cercopithecidae;Presbytis;potenziani;I;Indonesia;
+10400;Eulemur rufus;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;rufus;I;Madagascar;
+10300;Hapalemur alaotrensis;0;Animalia;Mammalia;Primates;Lemuridae;Hapalemur;alaotrensis;I;Madagascar;
+10200;Eulemur collaris;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;collaris;I;Madagascar;
+10100;Grus canadensis pulla;0;Animalia;Aves;Gruiformes;Gruidae;Grus;canadensis;I;United States of America;
+10100;Hylobates albibarbis;0;Animalia;Mammalia;Primates;Hylobatidae;Hylobates;albibarbis;I;Indonesia;
+9970;Chiropotes albinasus;0;Animalia;Mammalia;Primates;Pitheciidae;Chiropotes;albinasus;I;Brazil;
+9970;Hippotragus niger variani;0;Animalia;Mammalia;Artiodactyla;Bovidae;Hippotragus;niger;I;Angola,Zambia;
+9840;Cheirogaleus major;0;Animalia;Mammalia;Primates;Cheirogaleidae;Cheirogaleus;major;I;Madagascar;
+9760;Berardius arnuxii;0;Animalia;Mammalia;Cetacea;Ziphiidae;Berardius;arnuxii;I;Antarctica,Argentina,Australia,Brazil,Chile,Falkland Islands (Malvinas),New Zealand,South Africa;
+9670;Atrichornis clamosus;0;Animalia;Aves;Passeriformes;Atrichornithidae;Atrichornis;clamosus;I;Australia;
+9480;Cyclura collei;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;collei;I;Jamaica;
+9340;Rhinopithecus avunculus;0;Animalia;Mammalia;Primates;Cercopithecidae;Rhinopithecus;avunculus;I;Viet Nam;
+9300;Chasmistes cujus;0;Animalia;Actinopteri;Cypriniformes;Catostomidae;Chasmistes;cujus;I;United States of America;
+9160;Sminthopsis psammophila;0;Animalia;Mammalia;Dasyuromorphia;Dasyuridae;Sminthopsis;psammophila;I;Australia;
+9090;Anas nesiotis;0;Animalia;Aves;Anseriformes;Anatidae;Anas;nesiotis;I;New Zealand;
+9020;Encephalartos nubimontanus;0;Plantae;;Cycadales;Zamiaceae;Encephalartos;nubimontanus;I;;South Africa
+9010;Rhinopithecus brelichi;0;Animalia;Mammalia;Primates;Cercopithecidae;Rhinopithecus;brelichi;I;China;
+8990;Pitta gurneyi;0;Animalia;Aves;Passeriformes;Pittidae;Pitta;gurneyi;I;Myanmar,Thailand;
+8910;Cervus elaphus hanglu;0;Animalia;Mammalia;Artiodactyla;Cervidae;Cervus;elaphus;I;India;Pakistan
+8870;Microcebus myoxinus;0;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;myoxinus;I;Madagascar;
+8800;Capricornis milneedwardsii;0;Animalia;Mammalia;Artiodactyla;Bovidae;Capricornis;milneedwardsii;I;Cambodia,China,Lao People's Democratic Republic,Myanmar,Thailand,Viet Nam;
+8790;Pangshura tecta;0;Animalia;Reptilia;Testudines;Geoemydidae;Pangshura;tecta;I;Bangladesh,India,Nepal,Pakistan;
+8780;Prionailurus bengalensis bengalensis;0;Animalia;Mammalia;Carnivora;Felidae;Prionailurus;bengalensis;I/II;Bangladesh,Cambodia,China,India,Lao People's Democratic Republic,Myanmar,Pakistan,Thailand,Viet Nam;
+8720;Naemorhedus baileyi;0;Animalia;Mammalia;Artiodactyla;Bovidae;Naemorhedus;baileyi;I;China,India,Myanmar;
+8660;Gallirallus sylvestris;0;Animalia;Aves;Gruiformes;Rallidae;Gallirallus;sylvestris;I;Australia;
+8600;Nilssonia nigricans;0;Animalia;Reptilia;Testudines;Trionychidae;Nilssonia;nigricans;I;Bangladesh,India;
+8540;Lepilemur leucopus;0;Animalia;Mammalia;Primates;Lepilemuridae;Lepilemur;leucopus;I;Madagascar;
+8500;Cephalophus jentinki;0;Animalia;Mammalia;Artiodactyla;Bovidae;Cephalophus;jentinki;I;Côte d'Ivoire,Liberia,Sierra Leone;
+8460;Cyclura carinata;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;carinata;I;Bahamas,Turks and Caicos Islands (United Kingdom);
+8450;Guarouba guarouba;0;Animalia;Aves;Psittaciformes;Psittacidae;Guarouba;guarouba;I;Brazil;
+8430;Encephalartos transvenosus;0;Plantae;;Cycadales;Zamiaceae;Encephalartos;transvenosus;I;South Africa;
+8390;Cercopithecus roloway;0;Animalia;Mammalia;Primates;Cercopithecidae;Cercopithecus;roloway;I;Côte d'Ivoire,Ghana;
+8390;Phaner furcifer;0;Animalia;Mammalia;Primates;Cheirogaleidae;Phaner;furcifer;I;Madagascar;
+8380;Heteroglaux blewitti;0;Animalia;Aves;Strigiformes;Strigidae;Heteroglaux;blewitti;I;India;
+8360;Branta canadensis leucopareia;0;Animalia;Aves;Anseriformes;Anatidae;Branta;canadensis;I;Canada,Japan,Mexico,Russian Federation,United States of America;
+8250;Epioblasma florentina;0;Animalia;Bivalvia;Unionoida;Unionidae;Epioblasma;florentina;I;United States of America;
+8240;Vini ultramarina;0;Animalia;Aves;Psittaciformes;Loriidae;Vini;ultramarina;I;French Polynesia;
+8230;Cyclura cychlura;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;cychlura;I;Bahamas;
+8060;Brookesia perarmata;0;Animalia;Reptilia;Sauria;Chamaeleonidae;Brookesia;perarmata;I;Madagascar;
+8000;Dypsis decipiens;0;Plantae;;Arecales;Palmae;Dypsis;decipiens;I;Madagascar;
+7860;Zosterops albogularis;0;Animalia;Aves;Passeriformes;Zosteropidae;Zosterops;albogularis;I;Norfolk Island;
+7850;Echinocereus schmollii;0;Plantae;;Caryophyllales;Cactaceae;Echinocereus;schmollii;I;Mexico;
+7750;Capricornis thar;0;Animalia;Mammalia;Artiodactyla;Bovidae;Capricornis;thar;I;Bangladesh,Bhutan,India,Nepal;
+7740;Manis tetradactyla;0;Animalia;Mammalia;Pholidota;Manidae;Manis;tetradactyla;I;Angola,Cameroon,Congo,Côte d'Ivoire,Democratic Republic of the Congo,Equatorial Guinea,Gabon,Ghana,Guinea,Liberia,Nigeria,Sierra Leone,Uganda;
+7740;Epicrates monensis;0;Animalia;Reptilia;Serpentes;Boidae;Epicrates;monensis;I;British Virgin Islands (United Kingdom),Puerto Rico,Virgin Islands of the USA;
+7710;Colinus virginianus ridgwayi;0;Animalia;Aves;Galliformes;Phasianidae;Colinus;virginianus;I;Mexico;United States of America
+7680;Psittacula echo;0;Animalia;Aves;Psittaciformes;Psittacidae;Psittacula;echo;I;Mauritius;
+7650;Lepilemur septentrionalis;0;Animalia;Mammalia;Primates;Lepilemuridae;Lepilemur;septentrionalis;I;Madagascar;
+7620;Potamilus capax;0;Animalia;Bivalvia;Unionoida;Unionidae;Potamilus;capax;I;United States of America;
+7420;Ducula mindorensis;0;Animalia;Aves;Columbiformes;Columbidae;Ducula;mindorensis;I;Philippines;
+7080;Ninox natalis;0;Animalia;Aves;Strigiformes;Strigidae;Ninox;natalis;I;Christmas Island;
+7080;Villosa trabalis;0;Animalia;Bivalvia;Unionoida;Unionidae;Villosa;trabalis;I;United States of America;
+6940;Rhyticeros subruficollis;0;Animalia;Aves;Coraciiformes;Bucerotidae;Rhyticeros;subruficollis;I;Malaysia,Myanmar,Thailand;
+6860;Piliocolobus rufomitratus;0;Animalia;Mammalia;Primates;Cercopithecidae;Piliocolobus;rufomitratus;I;Kenya;
+6850;Axis calamianensis;0;Animalia;Mammalia;Artiodactyla;Cervidae;Axis;calamianensis;I;Philippines;
+6720;Melanochelys tricarinata;0;Animalia;Reptilia;Testudines;Geoemydidae;Melanochelys;tricarinata;I;Bangladesh,Bhutan,India,Nepal;
+6710;Semnopithecus hector;0;Animalia;Mammalia;Primates;Cercopithecidae;Semnopithecus;hector;I;India,Nepal;
+6700;Sminthopsis longicaudata;0;Animalia;Mammalia;Dasyuromorphia;Dasyuridae;Sminthopsis;longicaudata;I;Australia;
+6400;Nectophrynoides asperginis;0;Animalia;Amphibia;Anura;Bufonidae;Nectophrynoides;asperginis;I;;
+6400;Pediocactus paradinei;0;Plantae;;Caryophyllales;Cactaceae;Pediocactus;paradinei;I;United States of America;
+6390;Nilssonia gangetica;0;Animalia;Reptilia;Testudines;Trionychidae;Nilssonia;gangetica;I;Afghanistan,Bangladesh,India,Nepal,Pakistan;
+6250;Pygathrix nigripes;0;Animalia;Mammalia;Primates;Cercopithecidae;Pygathrix;nigripes;I;Cambodia,Viet Nam;
+6110;Mimizuku gurneyi;0;Animalia;Aves;Strigiformes;Strigidae;Mimizuku;gurneyi;I;Philippines;
+6030;Plethobasus cooperianus;0;Animalia;Bivalvia;Unionoida;Unionidae;Plethobasus;cooperianus;I;United States of America;
+6020;Lampsilis higginsii;0;Animalia;Bivalvia;Unionoida;Unionidae;Lampsilis;higginsii;I;United States of America;
+6010;Morenia ocellata;0;Animalia;Reptilia;Testudines;Geoemydidae;Morenia;ocellata;I;Myanmar;
+5980;Capricornis rubidus;0;Animalia;Mammalia;Artiodactyla;Bovidae;Capricornis;rubidus;I;Myanmar;
+5750;Quadrula sparsa;0;Animalia;Bivalvia;Unionoida;Unionidae;Quadrula;sparsa;I;United States of America;
+5680;Pitta kochi;0;Animalia;Aves;Passeriformes;Pittidae;Pitta;kochi;I;Philippines;
+5600;Cnemaspis psychedelica;0;Animalia;Reptilia;Sauria;Gekkonidae;Cnemaspis;psychedelica;I;Viet Nam;
+5590;Bolyeria multocarinata;0;Animalia;Reptilia;Serpentes;Bolyeriidae;Bolyeria;multocarinata;I;;Mauritius
+5270;Cuora bourreti;0;Animalia;Reptilia;Testudines;Geoemydidae;Cuora;bourreti;I;Lao People's Democratic Republic,Viet Nam;
+5240;Axis porcinus annamiticus;0;Animalia;Mammalia;Artiodactyla;Cervidae;Axis;porcinus;I;Cambodia,China,Lao People's Democratic Republic,Viet Nam;Thailand
+5200;Propithecus deckenii;0;Animalia;Mammalia;Primates;Indriidae;Propithecus;deckenii;I;Madagascar;
+5100;Cyclura pinguis;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;pinguis;I;British Virgin Islands (United Kingdom);
+5100;Moschus fuscus;0;Animalia;Mammalia;Artiodactyla;Moschidae;Moschus;fuscus;I/II;Bhutan,China,India,Myanmar,Nepal;
+4930;Trachypithecus shortridgei;0;Animalia;Mammalia;Primates;Cercopithecidae;Trachypithecus;shortridgei;I;China,Myanmar;
+4830;Lampsilis virescens;0;Animalia;Bivalvia;Unionoida;Unionidae;Lampsilis;virescens;I;United States of America;
+4790;Cyclura ricordi;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;ricordi;I;Dominican Republic,Haiti;
+4710;Cophotis ceylanica;0;Animalia;Reptilia;Sauria;Agamidae;Cophotis;ceylanica;I;Sri Lanka;
+4600;Eulemur sanfordi;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;sanfordi;I;Madagascar;
+4540;Pteropus pelewensis;0;Animalia;Mammalia;Chiroptera;Pteropodidae;Pteropus;pelewensis;I;Palau;
+4540;Nilssonia hurum;0;Animalia;Reptilia;Testudines;Trionychidae;Nilssonia;hurum;I;Bangladesh,India,Nepal,Pakistan;
+4520;Pachycereus militaris;0;Plantae;;Caryophyllales;Cactaceae;Pachycereus;militaris;I;Mexico;
+4410;Gonatodes daudini;0;Animalia;Reptilia;Sauria;Gekkonidae;Gonatodes;daudini;I;Saint Vincent and the Grenadines;
+4140;Paphiopedilum tigrinum;0;Plantae;;Orchidales;Orchidaceae;Paphiopedilum;tigrinum;I;China,Myanmar;
+4070;Fusconaia edgariana;0;Animalia;Bivalvia;Unionoida;Unionidae;Fusconaia;edgariana;I;United States of America;
+3990;Epioblasma torulosa gubernaculum;0;Animalia;Bivalvia;Unionoida;Unionidae;Epioblasma;torulosa;I;;United States of America
+3960;Moschus cupreus;0;Animalia;Mammalia;Artiodactyla;Moschidae;Moschus;cupreus;I;Afghanistan,India,Pakistan;
+3850;Encephalartos eugene-maraisii;0;Plantae;;Cycadales;Zamiaceae;Encephalartos;eugene-maraisii;I;South Africa;
+3770;Epioblasma walkeri;0;Animalia;Bivalvia;Unionoida;Unionidae;Epioblasma;walkeri;I;United States of America;
+3300;Abronia campbelli;0;Animalia;Reptilia;Sauria;Anguidae;Abronia;campbelli;I;Guatemala;
+3160;Bunopithecus hoolock;0;Animalia;Mammalia;Primates;Hylobatidae;Bunopithecus;hoolock;I;Bangladesh,China,India,Myanmar;
+3130;Cheirogaleus crossleyi;0;Animalia;Mammalia;Primates;Cheirogaleidae;Cheirogaleus;crossleyi;I;Madagascar;
+3090;Lepilemur ankaranensis;0;Animalia;Mammalia;Primates;Lepilemuridae;Lepilemur;ankaranensis;I;Madagascar;
+3010;Unio tampicoensis tecomatensis;0;Animalia;Bivalvia;Unionoida;Unionidae;Unio;tampicoensis;I;Mexico;
+3010;Cyclura stejnegeri;0;Animalia;Reptilia;Sauria;Iguanidae;Cyclura;stejnegeri;I;Puerto Rico;
+2940;Microcebus gerpi;0;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;gerpi;I;Madagascar;
+2810;Parides burchellanus;0;Animalia;Insecta;Lepidoptera;Papilionidae;Parides;burchellanus;I;Brazil;
+2740;Toxolasma cylindrella;0;Animalia;Bivalvia;Unionoida;Unionidae;Toxolasma;cylindrella;I;United States of America;
+2290;Eulemur albocollaris;0;Animalia;Mammalia;Primates;Lemuridae;Eulemur;albocollaris;I;Madagascar;
+1650;Ovis hodgsoni;0;Animalia;Mammalia;Artiodactyla;Bovidae;Ovis;hodgsoni;I;China,India,Nepal;Bhutan
+1570;Microcebus marohita;0;Animalia;Mammalia;Primates;Cheirogaleidae;Microcebus;marohita;I;Madagascar;
+814;Altiphrynoides osgoodi;0;Animalia;Amphibia;Anura;Bufonidae;Altiphrynoides;osgoodi;I;Ethiopia;
+641;Sarracenia rubra jonesii;0;Plantae;;Nepenthales;Sarraceniaceae;Sarracenia;rubra;I;United States of America;
+587;Achillides chikae chikae;0;Animalia;Insecta;Lepidoptera;Papilionidae;Achillides;chikae;I;Philippines;
+466;Nectophrynoides poyntoni;0;Animalia;Amphibia;Anura;Bufonidae;Nectophrynoides;poyntoni;I;United Republic of Tanzania;
