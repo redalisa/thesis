@@ -1,0 +1,661 @@
+title;views;scientific_name;datetime
+Lion;297740;Panthera leo;2015-07-01
+Lion;302355;Panthera leo;2015-08-01
+Lion;218628;Panthera leo;2015-09-01
+Lion;244336;Panthera leo;2015-10-01
+Lion;225724;Panthera leo;2015-11-01
+Lion;206398;Panthera leo;2015-12-01
+Lion;227687;Panthera leo;2016-01-01
+Lion;225684;Panthera leo;2016-02-01
+Lion;218844;Panthera leo;2016-03-01
+Lion;221073;Panthera leo;2016-04-01
+Lion;235452;Panthera leo;2016-05-01
+Lion;206112;Panthera leo;2016-06-01
+Lion;181268;Panthera leo;2016-07-01
+Lion;176516;Panthera leo;2016-08-01
+Lion;191897;Panthera leo;2016-09-01
+Lion;195724;Panthera leo;2016-10-01
+Lion;204126;Panthera leo;2016-11-01
+Lion;192792;Panthera leo;2016-12-01
+Lion;215093;Panthera leo;2017-01-01
+Lion;223581;Panthera leo;2017-02-01
+Lion;574872;Panthera leo;2017-03-01
+Lion;176807;Panthera leo;2017-04-01
+Lion;186691;Panthera leo;2017-05-01
+Lion;167252;Panthera leo;2017-06-01
+Lion;177897;Panthera leo;2017-07-01
+Lion;169418;Panthera leo;2017-08-01
+Lion;176699;Panthera leo;2017-09-01
+Lion;190160;Panthera leo;2017-10-01
+Lion;185713;Panthera leo;2017-11-01
+Lion;160851;Panthera leo;2017-12-01
+Lion;197425;Panthera leo;2018-01-01
+Lion;187493;Panthera leo;2018-02-01
+Lion;212402;Panthera leo;2018-03-01
+Lion;221034;Panthera leo;2018-04-01
+Lion;203977;Panthera leo;2018-05-01
+Lion;173895;Panthera leo;2018-06-01
+Lion;188521;Panthera leo;2018-07-01
+Lion;171195;Panthera leo;2018-08-01
+Lion;176516;Panthera leo;2018-09-01
+Lion;198644;Panthera leo;2018-10-01
+Lion;190294;Panthera leo;2018-11-01
+Lion;177740;Panthera leo;2018-12-01
+Lion;181509;Panthera leo;2019-01-01
+Lion;174315;Panthera leo;2019-02-01
+Lion;173666;Panthera leo;2019-03-01
+Lion;166901;Panthera leo;2019-04-01
+Lion;159576;Panthera leo;2019-05-01
+Lion;148239;Panthera leo;2019-06-01
+Lion;206899;Panthera leo;2019-07-01
+Lion;185866;Panthera leo;2019-08-01
+Lion;166536;Panthera leo;2019-09-01
+Lion;175450;Panthera leo;2019-10-01
+Lion;164913;Panthera leo;2019-11-01
+Lion;143828;Panthera leo;2019-12-01
+Lion;166500;Panthera leo;2020-01-01
+Lion;172694;Panthera leo;2020-02-01
+Lion;574083;Panthera leo;2020-03-01
+Lion;356488;Panthera leo;2020-04-01
+Lion;206149;Panthera leo;2020-05-01
+Lion;165270;Panthera leo;2020-06-01
+Lion;169081;Panthera leo;2020-07-01
+Lion;180029;Panthera leo;2020-08-01
+Lion;180315;Panthera leo;2020-09-01
+Lion;187222;Panthera leo;2020-10-01
+Lion;177407;Panthera leo;2020-11-01
+Lion;170514;Panthera leo;2020-12-01
+Blue whale;150468;Balaenoptera musculus;2015-07-01
+Blue whale;176104;Balaenoptera musculus;2015-08-01
+Blue whale;189933;Balaenoptera musculus;2015-09-01
+Blue whale;128297;Balaenoptera musculus;2015-10-01
+Blue whale;156619;Balaenoptera musculus;2015-11-01
+Blue whale;146664;Balaenoptera musculus;2015-12-01
+Blue whale;155472;Balaenoptera musculus;2016-01-01
+Blue whale;129261;Balaenoptera musculus;2016-02-01
+Blue whale;131394;Balaenoptera musculus;2016-03-01
+Blue whale;123032;Balaenoptera musculus;2016-04-01
+Blue whale;142522;Balaenoptera musculus;2016-05-01
+Blue whale;140613;Balaenoptera musculus;2016-06-01
+Blue whale;124692;Balaenoptera musculus;2016-07-01
+Blue whale;120497;Balaenoptera musculus;2016-08-01
+Blue whale;108258;Balaenoptera musculus;2016-09-01
+Blue whale;111556;Balaenoptera musculus;2016-10-01
+Blue whale;128102;Balaenoptera musculus;2016-11-01
+Blue whale;145902;Balaenoptera musculus;2016-12-01
+Blue whale;124035;Balaenoptera musculus;2017-01-01
+Blue whale;116596;Balaenoptera musculus;2017-02-01
+Blue whale;154082;Balaenoptera musculus;2017-03-01
+Blue whale;148637;Balaenoptera musculus;2017-04-01
+Blue whale;208262;Balaenoptera musculus;2017-05-01
+Blue whale;126717;Balaenoptera musculus;2017-06-01
+Blue whale;143848;Balaenoptera musculus;2017-07-01
+Blue whale;205592;Balaenoptera musculus;2017-08-01
+Blue whale;156557;Balaenoptera musculus;2017-09-01
+Blue whale;120332;Balaenoptera musculus;2017-10-01
+Blue whale;113359;Balaenoptera musculus;2017-11-01
+Blue whale;105188;Balaenoptera musculus;2017-12-01
+Blue whale;113461;Balaenoptera musculus;2018-01-01
+Blue whale;103411;Balaenoptera musculus;2018-02-01
+Blue whale;118587;Balaenoptera musculus;2018-03-01
+Blue whale;126907;Balaenoptera musculus;2018-04-01
+Blue whale;116648;Balaenoptera musculus;2018-05-01
+Blue whale;112302;Balaenoptera musculus;2018-06-01
+Blue whale;162386;Balaenoptera musculus;2018-07-01
+Blue whale;156485;Balaenoptera musculus;2018-08-01
+Blue whale;127652;Balaenoptera musculus;2018-09-01
+Blue whale;105501;Balaenoptera musculus;2018-10-01
+Blue whale;106489;Balaenoptera musculus;2018-11-01
+Blue whale;110721;Balaenoptera musculus;2018-12-01
+Blue whale;120025;Balaenoptera musculus;2019-01-01
+Blue whale;110702;Balaenoptera musculus;2019-02-01
+Blue whale;129601;Balaenoptera musculus;2019-03-01
+Blue whale;127985;Balaenoptera musculus;2019-04-01
+Blue whale;328964;Balaenoptera musculus;2019-05-01
+Blue whale;100387;Balaenoptera musculus;2019-06-01
+Blue whale;142483;Balaenoptera musculus;2019-07-01
+Blue whale;111063;Balaenoptera musculus;2019-08-01
+Blue whale;152356;Balaenoptera musculus;2019-09-01
+Blue whale;100826;Balaenoptera musculus;2019-10-01
+Blue whale;107175;Balaenoptera musculus;2019-11-01
+Blue whale;121940;Balaenoptera musculus;2019-12-01
+Blue whale;96301;Balaenoptera musculus;2020-01-01
+Blue whale;93276;Balaenoptera musculus;2020-02-01
+Blue whale;104548;Balaenoptera musculus;2020-03-01
+Blue whale;150812;Balaenoptera musculus;2020-04-01
+Blue whale;129081;Balaenoptera musculus;2020-05-01
+Blue whale;107072;Balaenoptera musculus;2020-06-01
+Blue whale;136980;Balaenoptera musculus;2020-07-01
+Blue whale;135015;Balaenoptera musculus;2020-08-01
+Blue whale;117267;Balaenoptera musculus;2020-09-01
+Blue whale;110726;Balaenoptera musculus;2020-10-01
+Blue whale;104265;Balaenoptera musculus;2020-11-01
+Blue whale;101639;Balaenoptera musculus;2020-12-01
+Tiger;205118;Panthera tigris;2015-07-01
+Tiger;215667;Panthera tigris;2015-08-01
+Tiger;191684;Panthera tigris;2015-09-01
+Tiger;216270;Panthera tigris;2015-10-01
+Tiger;223971;Panthera tigris;2015-11-01
+Tiger;201816;Panthera tigris;2015-12-01
+Tiger;224820;Panthera tigris;2016-01-01
+Tiger;216827;Panthera tigris;2016-02-01
+Tiger;203965;Panthera tigris;2016-03-01
+Tiger;241141;Panthera tigris;2016-04-01
+Tiger;242019;Panthera tigris;2016-05-01
+Tiger;226086;Panthera tigris;2016-06-01
+Tiger;213902;Panthera tigris;2016-07-01
+Tiger;195963;Panthera tigris;2016-08-01
+Tiger;200758;Panthera tigris;2016-09-01
+Tiger;214942;Panthera tigris;2016-10-01
+Tiger;214511;Panthera tigris;2016-11-01
+Tiger;208017;Panthera tigris;2016-12-01
+Tiger;245161;Panthera tigris;2017-01-01
+Tiger;199939;Panthera tigris;2017-02-01
+Tiger;210478;Panthera tigris;2017-03-01
+Tiger;180479;Panthera tigris;2017-04-01
+Tiger;188589;Panthera tigris;2017-05-01
+Tiger;169644;Panthera tigris;2017-06-01
+Tiger;176134;Panthera tigris;2017-07-01
+Tiger;159497;Panthera tigris;2017-08-01
+Tiger;170041;Panthera tigris;2017-09-01
+Tiger;182670;Panthera tigris;2017-10-01
+Tiger;194803;Panthera tigris;2017-11-01
+Tiger;164670;Panthera tigris;2017-12-01
+Tiger;194437;Panthera tigris;2018-01-01
+Tiger;187718;Panthera tigris;2018-02-01
+Tiger;209017;Panthera tigris;2018-03-01
+Tiger;185250;Panthera tigris;2018-04-01
+Tiger;196939;Panthera tigris;2018-05-01
+Tiger;173803;Panthera tigris;2018-06-01
+Tiger;201649;Panthera tigris;2018-07-01
+Tiger;189215;Panthera tigris;2018-08-01
+Tiger;165781;Panthera tigris;2018-09-01
+Tiger;194539;Panthera tigris;2018-10-01
+Tiger;182228;Panthera tigris;2018-11-01
+Tiger;179836;Panthera tigris;2018-12-01
+Tiger;173369;Panthera tigris;2019-01-01
+Tiger;171942;Panthera tigris;2019-02-01
+Tiger;220424;Panthera tigris;2019-03-01
+Tiger;137550;Panthera tigris;2019-04-01
+Tiger;133888;Panthera tigris;2019-05-01
+Tiger;137961;Panthera tigris;2019-06-01
+Tiger;174792;Panthera tigris;2019-07-01
+Tiger;170572;Panthera tigris;2019-08-01
+Tiger;151092;Panthera tigris;2019-09-01
+Tiger;152191;Panthera tigris;2019-10-01
+Tiger;143420;Panthera tigris;2019-11-01
+Tiger;127391;Panthera tigris;2019-12-01
+Tiger;150584;Panthera tigris;2020-01-01
+Tiger;144863;Panthera tigris;2020-02-01
+Tiger;694465;Panthera tigris;2020-03-01
+Tiger;540666;Panthera tigris;2020-04-01
+Tiger;208545;Panthera tigris;2020-05-01
+Tiger;147780;Panthera tigris;2020-06-01
+Tiger;161036;Panthera tigris;2020-07-01
+Tiger;145687;Panthera tigris;2020-08-01
+Tiger;155192;Panthera tigris;2020-09-01
+Tiger;174767;Panthera tigris;2020-10-01
+Tiger;159715;Panthera tigris;2020-11-01
+Tiger;154163;Panthera tigris;2020-12-01
+White rhinoceros;45068;Ceratotherium simum;2015-07-01
+White rhinoceros;36757;Ceratotherium simum;2015-08-01
+White rhinoceros;23304;Ceratotherium simum;2015-09-01
+White rhinoceros;23437;Ceratotherium simum;2015-10-01
+White rhinoceros;55266;Ceratotherium simum;2015-11-01
+White rhinoceros;28519;Ceratotherium simum;2015-12-01
+White rhinoceros;33569;Ceratotherium simum;2016-01-01
+White rhinoceros;29663;Ceratotherium simum;2016-02-01
+White rhinoceros;27628;Ceratotherium simum;2016-03-01
+White rhinoceros;31797;Ceratotherium simum;2016-04-01
+White rhinoceros;32247;Ceratotherium simum;2016-05-01
+White rhinoceros;23711;Ceratotherium simum;2016-06-01
+White rhinoceros;21443;Ceratotherium simum;2016-07-01
+White rhinoceros;21898;Ceratotherium simum;2016-08-01
+White rhinoceros;24296;Ceratotherium simum;2016-09-01
+White rhinoceros;22795;Ceratotherium simum;2016-10-01
+White rhinoceros;22966;Ceratotherium simum;2016-11-01
+White rhinoceros;22537;Ceratotherium simum;2016-12-01
+White rhinoceros;22764;Ceratotherium simum;2017-01-01
+White rhinoceros;28210;Ceratotherium simum;2017-02-01
+White rhinoceros;35089;Ceratotherium simum;2017-03-01
+White rhinoceros;30124;Ceratotherium simum;2017-04-01
+White rhinoceros;26434;Ceratotherium simum;2017-05-01
+White rhinoceros;22732;Ceratotherium simum;2017-06-01
+White rhinoceros;21764;Ceratotherium simum;2017-07-01
+White rhinoceros;18968;Ceratotherium simum;2017-08-01
+White rhinoceros;22237;Ceratotherium simum;2017-09-01
+White rhinoceros;20469;Ceratotherium simum;2017-10-01
+White rhinoceros;29153;Ceratotherium simum;2017-11-01
+White rhinoceros;22883;Ceratotherium simum;2017-12-01
+White rhinoceros;28165;Ceratotherium simum;2018-01-01
+White rhinoceros;26640;Ceratotherium simum;2018-02-01
+White rhinoceros;320876;Ceratotherium simum;2018-03-01
+White rhinoceros;59369;Ceratotherium simum;2018-04-01
+White rhinoceros;37599;Ceratotherium simum;2018-05-01
+White rhinoceros;30668;Ceratotherium simum;2018-06-01
+White rhinoceros;36263;Ceratotherium simum;2018-07-01
+White rhinoceros;30110;Ceratotherium simum;2018-08-01
+White rhinoceros;30574;Ceratotherium simum;2018-09-01
+White rhinoceros;39520;Ceratotherium simum;2018-10-01
+White rhinoceros;28473;Ceratotherium simum;2018-11-01
+White rhinoceros;44510;Ceratotherium simum;2018-12-01
+White rhinoceros;40666;Ceratotherium simum;2019-01-01
+White rhinoceros;28568;Ceratotherium simum;2019-02-01
+White rhinoceros;29440;Ceratotherium simum;2019-03-01
+White rhinoceros;30506;Ceratotherium simum;2019-04-01
+White rhinoceros;32011;Ceratotherium simum;2019-05-01
+White rhinoceros;23766;Ceratotherium simum;2019-06-01
+White rhinoceros;28053;Ceratotherium simum;2019-07-01
+White rhinoceros;31752;Ceratotherium simum;2019-08-01
+White rhinoceros;27420;Ceratotherium simum;2019-09-01
+White rhinoceros;27858;Ceratotherium simum;2019-10-01
+White rhinoceros;28479;Ceratotherium simum;2019-11-01
+White rhinoceros;33793;Ceratotherium simum;2019-12-01
+White rhinoceros;28131;Ceratotherium simum;2020-01-01
+White rhinoceros;25499;Ceratotherium simum;2020-02-01
+White rhinoceros;29009;Ceratotherium simum;2020-03-01
+White rhinoceros;29251;Ceratotherium simum;2020-04-01
+White rhinoceros;25404;Ceratotherium simum;2020-05-01
+White rhinoceros;20590;Ceratotherium simum;2020-06-01
+White rhinoceros;23499;Ceratotherium simum;2020-07-01
+White rhinoceros;25945;Ceratotherium simum;2020-08-01
+White rhinoceros;25267;Ceratotherium simum;2020-09-01
+White rhinoceros;24258;Ceratotherium simum;2020-10-01
+White rhinoceros;26149;Ceratotherium simum;2020-11-01
+White rhinoceros;35554;Ceratotherium simum;2020-12-01
+Giant golden-crowned flying fox;10928;Acerodon jubatus;2015-07-01
+Giant golden-crowned flying fox;27877;Acerodon jubatus;2015-08-01
+Giant golden-crowned flying fox;10758;Acerodon jubatus;2015-09-01
+Giant golden-crowned flying fox;12822;Acerodon jubatus;2015-10-01
+Giant golden-crowned flying fox;10685;Acerodon jubatus;2015-11-01
+Giant golden-crowned flying fox;8710;Acerodon jubatus;2015-12-01
+Giant golden-crowned flying fox;10862;Acerodon jubatus;2016-01-01
+Giant golden-crowned flying fox;9079;Acerodon jubatus;2016-02-01
+Giant golden-crowned flying fox;10166;Acerodon jubatus;2016-03-01
+Giant golden-crowned flying fox;10174;Acerodon jubatus;2016-04-01
+Giant golden-crowned flying fox;11575;Acerodon jubatus;2016-05-01
+Giant golden-crowned flying fox;12021;Acerodon jubatus;2016-06-01
+Giant golden-crowned flying fox;23131;Acerodon jubatus;2016-07-01
+Giant golden-crowned flying fox;14843;Acerodon jubatus;2016-08-01
+Giant golden-crowned flying fox;10391;Acerodon jubatus;2016-09-01
+Giant golden-crowned flying fox;15443;Acerodon jubatus;2016-10-01
+Giant golden-crowned flying fox;8764;Acerodon jubatus;2016-11-01
+Giant golden-crowned flying fox;8696;Acerodon jubatus;2016-12-01
+Giant golden-crowned flying fox;12683;Acerodon jubatus;2017-01-01
+Giant golden-crowned flying fox;9005;Acerodon jubatus;2017-02-01
+Giant golden-crowned flying fox;9995;Acerodon jubatus;2017-03-01
+Giant golden-crowned flying fox;16216;Acerodon jubatus;2017-04-01
+Giant golden-crowned flying fox;9399;Acerodon jubatus;2017-05-01
+Giant golden-crowned flying fox;8613;Acerodon jubatus;2017-06-01
+Giant golden-crowned flying fox;9044;Acerodon jubatus;2017-07-01
+Giant golden-crowned flying fox;10461;Acerodon jubatus;2017-08-01
+Giant golden-crowned flying fox;11796;Acerodon jubatus;2017-09-01
+Giant golden-crowned flying fox;14398;Acerodon jubatus;2017-10-01
+Giant golden-crowned flying fox;10576;Acerodon jubatus;2017-11-01
+Giant golden-crowned flying fox;9603;Acerodon jubatus;2017-12-01
+Giant golden-crowned flying fox;15511;Acerodon jubatus;2018-01-01
+Giant golden-crowned flying fox;9350;Acerodon jubatus;2018-02-01
+Giant golden-crowned flying fox;9803;Acerodon jubatus;2018-03-01
+Giant golden-crowned flying fox;10296;Acerodon jubatus;2018-04-01
+Giant golden-crowned flying fox;11355;Acerodon jubatus;2018-05-01
+Giant golden-crowned flying fox;11283;Acerodon jubatus;2018-06-01
+Giant golden-crowned flying fox;23363;Acerodon jubatus;2018-07-01
+Giant golden-crowned flying fox;42418;Acerodon jubatus;2018-08-01
+Giant golden-crowned flying fox;61189;Acerodon jubatus;2018-09-01
+Giant golden-crowned flying fox;53082;Acerodon jubatus;2018-10-01
+Giant golden-crowned flying fox;12167;Acerodon jubatus;2018-11-01
+Giant golden-crowned flying fox;15563;Acerodon jubatus;2018-12-01
+Giant golden-crowned flying fox;74604;Acerodon jubatus;2019-01-01
+Giant golden-crowned flying fox;19256;Acerodon jubatus;2019-02-01
+Giant golden-crowned flying fox;13083;Acerodon jubatus;2019-03-01
+Giant golden-crowned flying fox;33045;Acerodon jubatus;2019-04-01
+Giant golden-crowned flying fox;43322;Acerodon jubatus;2019-05-01
+Giant golden-crowned flying fox;14338;Acerodon jubatus;2019-06-01
+Giant golden-crowned flying fox;14137;Acerodon jubatus;2019-07-01
+Giant golden-crowned flying fox;14023;Acerodon jubatus;2019-08-01
+Giant golden-crowned flying fox;18092;Acerodon jubatus;2019-09-01
+Giant golden-crowned flying fox;23962;Acerodon jubatus;2019-10-01
+Giant golden-crowned flying fox;13364;Acerodon jubatus;2019-11-01
+Giant golden-crowned flying fox;15076;Acerodon jubatus;2019-12-01
+Giant golden-crowned flying fox;55011;Acerodon jubatus;2020-01-01
+Giant golden-crowned flying fox;26009;Acerodon jubatus;2020-02-01
+Giant golden-crowned flying fox;36478;Acerodon jubatus;2020-03-01
+Giant golden-crowned flying fox;45237;Acerodon jubatus;2020-04-01
+Giant golden-crowned flying fox;27664;Acerodon jubatus;2020-05-01
+Giant golden-crowned flying fox;347925;Acerodon jubatus;2020-06-01
+Giant golden-crowned flying fox;320048;Acerodon jubatus;2020-07-01
+Giant golden-crowned flying fox;47074;Acerodon jubatus;2020-08-01
+Giant golden-crowned flying fox;34226;Acerodon jubatus;2020-09-01
+Giant golden-crowned flying fox;22774;Acerodon jubatus;2020-10-01
+Giant golden-crowned flying fox;16908;Acerodon jubatus;2020-11-01
+Giant golden-crowned flying fox;16527;Acerodon jubatus;2020-12-01
+Giant panda;111991;Ailuropoda melanoleuca;2015-07-01
+Giant panda;181814;Ailuropoda melanoleuca;2015-08-01
+Giant panda;168125;Ailuropoda melanoleuca;2015-09-01
+Giant panda;158018;Ailuropoda melanoleuca;2015-10-01
+Giant panda;166800;Ailuropoda melanoleuca;2015-11-01
+Giant panda;171469;Ailuropoda melanoleuca;2015-12-01
+Giant panda;212874;Ailuropoda melanoleuca;2016-01-01
+Giant panda;183126;Ailuropoda melanoleuca;2016-02-01
+Giant panda;178924;Ailuropoda melanoleuca;2016-03-01
+Giant panda;191785;Ailuropoda melanoleuca;2016-04-01
+Giant panda;218199;Ailuropoda melanoleuca;2016-05-01
+Giant panda;182982;Ailuropoda melanoleuca;2016-06-01
+Giant panda;136628;Ailuropoda melanoleuca;2016-07-01
+Giant panda;122555;Ailuropoda melanoleuca;2016-08-01
+Giant panda;271472;Ailuropoda melanoleuca;2016-09-01
+Giant panda;181663;Ailuropoda melanoleuca;2016-10-01
+Giant panda;160908;Ailuropoda melanoleuca;2016-11-01
+Giant panda;163343;Ailuropoda melanoleuca;2016-12-01
+Giant panda;168033;Ailuropoda melanoleuca;2017-01-01
+Giant panda;192869;Ailuropoda melanoleuca;2017-02-01
+Giant panda;189692;Ailuropoda melanoleuca;2017-03-01
+Giant panda;165847;Ailuropoda melanoleuca;2017-04-01
+Giant panda;168437;Ailuropoda melanoleuca;2017-05-01
+Giant panda;126421;Ailuropoda melanoleuca;2017-06-01
+Giant panda;122382;Ailuropoda melanoleuca;2017-07-01
+Giant panda;118218;Ailuropoda melanoleuca;2017-08-01
+Giant panda;127730;Ailuropoda melanoleuca;2017-09-01
+Giant panda;141182;Ailuropoda melanoleuca;2017-10-01
+Giant panda;136516;Ailuropoda melanoleuca;2017-11-01
+Giant panda;150330;Ailuropoda melanoleuca;2017-12-01
+Giant panda;143939;Ailuropoda melanoleuca;2018-01-01
+Giant panda;126553;Ailuropoda melanoleuca;2018-02-01
+Giant panda;145169;Ailuropoda melanoleuca;2018-03-01
+Giant panda;138889;Ailuropoda melanoleuca;2018-04-01
+Giant panda;145501;Ailuropoda melanoleuca;2018-05-01
+Giant panda;118149;Ailuropoda melanoleuca;2018-06-01
+Giant panda;116246;Ailuropoda melanoleuca;2018-07-01
+Giant panda;121338;Ailuropoda melanoleuca;2018-08-01
+Giant panda;121931;Ailuropoda melanoleuca;2018-09-01
+Giant panda;137553;Ailuropoda melanoleuca;2018-10-01
+Giant panda;142072;Ailuropoda melanoleuca;2018-11-01
+Giant panda;112145;Ailuropoda melanoleuca;2018-12-01
+Giant panda;136361;Ailuropoda melanoleuca;2019-01-01
+Giant panda;127638;Ailuropoda melanoleuca;2019-02-01
+Giant panda;139427;Ailuropoda melanoleuca;2019-03-01
+Giant panda;131276;Ailuropoda melanoleuca;2019-04-01
+Giant panda;135682;Ailuropoda melanoleuca;2019-05-01
+Giant panda;107808;Ailuropoda melanoleuca;2019-06-01
+Giant panda;101262;Ailuropoda melanoleuca;2019-07-01
+Giant panda;106719;Ailuropoda melanoleuca;2019-08-01
+Giant panda;128170;Ailuropoda melanoleuca;2019-09-01
+Giant panda;133064;Ailuropoda melanoleuca;2019-10-01
+Giant panda;135116;Ailuropoda melanoleuca;2019-11-01
+Giant panda;106117;Ailuropoda melanoleuca;2019-12-01
+Giant panda;130819;Ailuropoda melanoleuca;2020-01-01
+Giant panda;120271;Ailuropoda melanoleuca;2020-02-01
+Giant panda;411539;Ailuropoda melanoleuca;2020-03-01
+Giant panda;258700;Ailuropoda melanoleuca;2020-04-01
+Giant panda;156684;Ailuropoda melanoleuca;2020-05-01
+Giant panda;111307;Ailuropoda melanoleuca;2020-06-01
+Giant panda;103792;Ailuropoda melanoleuca;2020-07-01
+Giant panda;138535;Ailuropoda melanoleuca;2020-08-01
+Giant panda;121215;Ailuropoda melanoleuca;2020-09-01
+Giant panda;139702;Ailuropoda melanoleuca;2020-10-01
+Giant panda;135119;Ailuropoda melanoleuca;2020-11-01
+Giant panda;109128;Ailuropoda melanoleuca;2020-12-01
+Peregrine falcon;57503;Falco peregrinus;2015-07-01
+Peregrine falcon;55813;Falco peregrinus;2015-08-01
+Peregrine falcon;53711;Falco peregrinus;2015-09-01
+Peregrine falcon;58377;Falco peregrinus;2015-10-01
+Peregrine falcon;61072;Falco peregrinus;2015-11-01
+Peregrine falcon;53422;Falco peregrinus;2015-12-01
+Peregrine falcon;61080;Falco peregrinus;2016-01-01
+Peregrine falcon;60175;Falco peregrinus;2016-02-01
+Peregrine falcon;65009;Falco peregrinus;2016-03-01
+Peregrine falcon;72559;Falco peregrinus;2016-04-01
+Peregrine falcon;79627;Falco peregrinus;2016-05-01
+Peregrine falcon;87065;Falco peregrinus;2016-06-01
+Peregrine falcon;66277;Falco peregrinus;2016-07-01
+Peregrine falcon;431655;Falco peregrinus;2016-08-01
+Peregrine falcon;74375;Falco peregrinus;2016-09-01
+Peregrine falcon;80797;Falco peregrinus;2016-10-01
+Peregrine falcon;68907;Falco peregrinus;2016-11-01
+Peregrine falcon;69398;Falco peregrinus;2016-12-01
+Peregrine falcon;73432;Falco peregrinus;2017-01-01
+Peregrine falcon;68164;Falco peregrinus;2017-02-01
+Peregrine falcon;79954;Falco peregrinus;2017-03-01
+Peregrine falcon;69386;Falco peregrinus;2017-04-01
+Peregrine falcon;71141;Falco peregrinus;2017-05-01
+Peregrine falcon;71295;Falco peregrinus;2017-06-01
+Peregrine falcon;66017;Falco peregrinus;2017-07-01
+Peregrine falcon;60020;Falco peregrinus;2017-08-01
+Peregrine falcon;51842;Falco peregrinus;2017-09-01
+Peregrine falcon;58147;Falco peregrinus;2017-10-01
+Peregrine falcon;58825;Falco peregrinus;2017-11-01
+Peregrine falcon;52311;Falco peregrinus;2017-12-01
+Peregrine falcon;70094;Falco peregrinus;2018-01-01
+Peregrine falcon;62486;Falco peregrinus;2018-02-01
+Peregrine falcon;66404;Falco peregrinus;2018-03-01
+Peregrine falcon;71158;Falco peregrinus;2018-04-01
+Peregrine falcon;73884;Falco peregrinus;2018-05-01
+Peregrine falcon;61149;Falco peregrinus;2018-06-01
+Peregrine falcon;61217;Falco peregrinus;2018-07-01
+Peregrine falcon;57369;Falco peregrinus;2018-08-01
+Peregrine falcon;55365;Falco peregrinus;2018-09-01
+Peregrine falcon;58203;Falco peregrinus;2018-10-01
+Peregrine falcon;62075;Falco peregrinus;2018-11-01
+Peregrine falcon;58193;Falco peregrinus;2018-12-01
+Peregrine falcon;59090;Falco peregrinus;2019-01-01
+Peregrine falcon;56667;Falco peregrinus;2019-02-01
+Peregrine falcon;61032;Falco peregrinus;2019-03-01
+Peregrine falcon;62662;Falco peregrinus;2019-04-01
+Peregrine falcon;64448;Falco peregrinus;2019-05-01
+Peregrine falcon;56986;Falco peregrinus;2019-06-01
+Peregrine falcon;59296;Falco peregrinus;2019-07-01
+Peregrine falcon;56815;Falco peregrinus;2019-08-01
+Peregrine falcon;63493;Falco peregrinus;2019-09-01
+Peregrine falcon;56505;Falco peregrinus;2019-10-01
+Peregrine falcon;54198;Falco peregrinus;2019-11-01
+Peregrine falcon;51042;Falco peregrinus;2019-12-01
+Peregrine falcon;57173;Falco peregrinus;2020-01-01
+Peregrine falcon;55714;Falco peregrinus;2020-02-01
+Peregrine falcon;63823;Falco peregrinus;2020-03-01
+Peregrine falcon;86827;Falco peregrinus;2020-04-01
+Peregrine falcon;89263;Falco peregrinus;2020-05-01
+Peregrine falcon;77056;Falco peregrinus;2020-06-01
+Peregrine falcon;78011;Falco peregrinus;2020-07-01
+Peregrine falcon;75545;Falco peregrinus;2020-08-01
+Peregrine falcon;70070;Falco peregrinus;2020-09-01
+Peregrine falcon;71901;Falco peregrinus;2020-10-01
+Peregrine falcon;69586;Falco peregrinus;2020-11-01
+Peregrine falcon;69532;Falco peregrinus;2020-12-01
+Red panda;82643;Ailurus fulgens;2015-07-01
+Red panda;112636;Ailurus fulgens;2015-08-01
+Red panda;93388;Ailurus fulgens;2015-09-01
+Red panda;99241;Ailurus fulgens;2015-10-01
+Red panda;97582;Ailurus fulgens;2015-11-01
+Red panda;94114;Ailurus fulgens;2015-12-01
+Red panda;118340;Ailurus fulgens;2016-01-01
+Red panda;110844;Ailurus fulgens;2016-02-01
+Red panda;105583;Ailurus fulgens;2016-03-01
+Red panda;104351;Ailurus fulgens;2016-04-01
+Red panda;118321;Ailurus fulgens;2016-05-01
+Red panda;99580;Ailurus fulgens;2016-06-01
+Red panda;90148;Ailurus fulgens;2016-07-01
+Red panda;83388;Ailurus fulgens;2016-08-01
+Red panda;100409;Ailurus fulgens;2016-09-01
+Red panda;94106;Ailurus fulgens;2016-10-01
+Red panda;107982;Ailurus fulgens;2016-11-01
+Red panda;89049;Ailurus fulgens;2016-12-01
+Red panda;112121;Ailurus fulgens;2017-01-01
+Red panda;97968;Ailurus fulgens;2017-02-01
+Red panda;103776;Ailurus fulgens;2017-03-01
+Red panda;149430;Ailurus fulgens;2017-04-01
+Red panda;652891;Ailurus fulgens;2017-05-01
+Red panda;97202;Ailurus fulgens;2017-06-01
+Red panda;85771;Ailurus fulgens;2017-07-01
+Red panda;75491;Ailurus fulgens;2017-08-01
+Red panda;78401;Ailurus fulgens;2017-09-01
+Red panda;87900;Ailurus fulgens;2017-10-01
+Red panda;93150;Ailurus fulgens;2017-11-01
+Red panda;108171;Ailurus fulgens;2017-12-01
+Red panda;85880;Ailurus fulgens;2018-01-01
+Red panda;79455;Ailurus fulgens;2018-02-01
+Red panda;85824;Ailurus fulgens;2018-03-01
+Red panda;100008;Ailurus fulgens;2018-04-01
+Red panda;119875;Ailurus fulgens;2018-05-01
+Red panda;78790;Ailurus fulgens;2018-06-01
+Red panda;75686;Ailurus fulgens;2018-07-01
+Red panda;76126;Ailurus fulgens;2018-08-01
+Red panda;82168;Ailurus fulgens;2018-09-01
+Red panda;84289;Ailurus fulgens;2018-10-01
+Red panda;127413;Ailurus fulgens;2018-11-01
+Red panda;78653;Ailurus fulgens;2018-12-01
+Red panda;83307;Ailurus fulgens;2019-01-01
+Red panda;73431;Ailurus fulgens;2019-02-01
+Red panda;82888;Ailurus fulgens;2019-03-01
+Red panda;79891;Ailurus fulgens;2019-04-01
+Red panda;90919;Ailurus fulgens;2019-05-01
+Red panda;69877;Ailurus fulgens;2019-06-01
+Red panda;67784;Ailurus fulgens;2019-07-01
+Red panda;70114;Ailurus fulgens;2019-08-01
+Red panda;73960;Ailurus fulgens;2019-09-01
+Red panda;77514;Ailurus fulgens;2019-10-01
+Red panda;80088;Ailurus fulgens;2019-11-01
+Red panda;70099;Ailurus fulgens;2019-12-01
+Red panda;81909;Ailurus fulgens;2020-01-01
+Red panda;86926;Ailurus fulgens;2020-02-01
+Red panda;93711;Ailurus fulgens;2020-03-01
+Red panda;93668;Ailurus fulgens;2020-04-01
+Red panda;88635;Ailurus fulgens;2020-05-01
+Red panda;72683;Ailurus fulgens;2020-06-01
+Red panda;79520;Ailurus fulgens;2020-07-01
+Red panda;102378;Ailurus fulgens;2020-08-01
+Red panda;90380;Ailurus fulgens;2020-09-01
+Red panda;91688;Ailurus fulgens;2020-10-01
+Red panda;92184;Ailurus fulgens;2020-11-01
+Red panda;94132;Ailurus fulgens;2020-12-01
+Mandrill;20350;Mandrillus sphinx;2015-07-01
+Mandrill;19974;Mandrillus sphinx;2015-08-01
+Mandrill;19530;Mandrillus sphinx;2015-09-01
+Mandrill;21582;Mandrillus sphinx;2015-10-01
+Mandrill;25001;Mandrillus sphinx;2015-11-01
+Mandrill;23238;Mandrillus sphinx;2015-12-01
+Mandrill;23689;Mandrillus sphinx;2016-01-01
+Mandrill;21975;Mandrillus sphinx;2016-02-01
+Mandrill;24461;Mandrillus sphinx;2016-03-01
+Mandrill;24264;Mandrillus sphinx;2016-04-01
+Mandrill;26721;Mandrillus sphinx;2016-05-01
+Mandrill;21914;Mandrillus sphinx;2016-06-01
+Mandrill;20488;Mandrillus sphinx;2016-07-01
+Mandrill;21760;Mandrillus sphinx;2016-08-01
+Mandrill;22410;Mandrillus sphinx;2016-09-01
+Mandrill;21929;Mandrillus sphinx;2016-10-01
+Mandrill;20495;Mandrillus sphinx;2016-11-01
+Mandrill;23894;Mandrillus sphinx;2016-12-01
+Mandrill;22693;Mandrillus sphinx;2017-01-01
+Mandrill;21837;Mandrillus sphinx;2017-02-01
+Mandrill;30332;Mandrillus sphinx;2017-03-01
+Mandrill;23384;Mandrillus sphinx;2017-04-01
+Mandrill;23147;Mandrillus sphinx;2017-05-01
+Mandrill;18659;Mandrillus sphinx;2017-06-01
+Mandrill;20424;Mandrillus sphinx;2017-07-01
+Mandrill;20813;Mandrillus sphinx;2017-08-01
+Mandrill;18556;Mandrillus sphinx;2017-09-01
+Mandrill;28348;Mandrillus sphinx;2017-10-01
+Mandrill;25072;Mandrillus sphinx;2017-11-01
+Mandrill;20336;Mandrillus sphinx;2017-12-01
+Mandrill;25195;Mandrillus sphinx;2018-01-01
+Mandrill;21753;Mandrillus sphinx;2018-02-01
+Mandrill;25575;Mandrillus sphinx;2018-03-01
+Mandrill;22954;Mandrillus sphinx;2018-04-01
+Mandrill;21400;Mandrillus sphinx;2018-05-01
+Mandrill;21469;Mandrillus sphinx;2018-06-01
+Mandrill;19765;Mandrillus sphinx;2018-07-01
+Mandrill;19903;Mandrillus sphinx;2018-08-01
+Mandrill;17550;Mandrillus sphinx;2018-09-01
+Mandrill;19967;Mandrillus sphinx;2018-10-01
+Mandrill;350692;Mandrillus sphinx;2018-11-01
+Mandrill;21945;Mandrillus sphinx;2018-12-01
+Mandrill;24161;Mandrillus sphinx;2019-01-01
+Mandrill;20099;Mandrillus sphinx;2019-02-01
+Mandrill;22432;Mandrillus sphinx;2019-03-01
+Mandrill;24837;Mandrillus sphinx;2019-04-01
+Mandrill;22207;Mandrillus sphinx;2019-05-01
+Mandrill;21391;Mandrillus sphinx;2019-06-01
+Mandrill;70437;Mandrillus sphinx;2019-07-01
+Mandrill;37824;Mandrillus sphinx;2019-08-01
+Mandrill;24396;Mandrillus sphinx;2019-09-01
+Mandrill;28584;Mandrillus sphinx;2019-10-01
+Mandrill;27584;Mandrillus sphinx;2019-11-01
+Mandrill;49873;Mandrillus sphinx;2019-12-01
+Mandrill;35562;Mandrillus sphinx;2020-01-01
+Mandrill;55582;Mandrillus sphinx;2020-02-01
+Mandrill;64171;Mandrillus sphinx;2020-03-01
+Mandrill;55427;Mandrillus sphinx;2020-04-01
+Mandrill;41927;Mandrillus sphinx;2020-05-01
+Mandrill;33132;Mandrillus sphinx;2020-06-01
+Mandrill;41908;Mandrillus sphinx;2020-07-01
+Mandrill;40794;Mandrillus sphinx;2020-08-01
+Mandrill;29263;Mandrillus sphinx;2020-09-01
+Mandrill;30592;Mandrillus sphinx;2020-10-01
+Mandrill;29695;Mandrillus sphinx;2020-11-01
+Mandrill;30487;Mandrillus sphinx;2020-12-01
+Jaguar;109315;Panthera onca;2015-07-01
+Jaguar;115569;Panthera onca;2015-08-01
+Jaguar;112056;Panthera onca;2015-09-01
+Jaguar;129419;Panthera onca;2015-10-01
+Jaguar;120113;Panthera onca;2015-11-01
+Jaguar;105382;Panthera onca;2015-12-01
+Jaguar;149242;Panthera onca;2016-01-01
+Jaguar;166859;Panthera onca;2016-02-01
+Jaguar;129453;Panthera onca;2016-03-01
+Jaguar;140305;Panthera onca;2016-04-01
+Jaguar;170910;Panthera onca;2016-05-01
+Jaguar;128347;Panthera onca;2016-06-01
+Jaguar;95399;Panthera onca;2016-07-01
+Jaguar;97740;Panthera onca;2016-08-01
+Jaguar;110384;Panthera onca;2016-09-01
+Jaguar;120773;Panthera onca;2016-10-01
+Jaguar;128647;Panthera onca;2016-11-01
+Jaguar;131572;Panthera onca;2016-12-01
+Jaguar;127581;Panthera onca;2017-01-01
+Jaguar;353949;Panthera onca;2017-02-01
+Jaguar;145540;Panthera onca;2017-03-01
+Jaguar;120365;Panthera onca;2017-04-01
+Jaguar;125637;Panthera onca;2017-05-01
+Jaguar;115080;Panthera onca;2017-06-01
+Jaguar;94355;Panthera onca;2017-07-01
+Jaguar;93007;Panthera onca;2017-08-01
+Jaguar;103529;Panthera onca;2017-09-01
+Jaguar;111106;Panthera onca;2017-10-01
+Jaguar;107886;Panthera onca;2017-11-01
+Jaguar;117591;Panthera onca;2017-12-01
+Jaguar;154867;Panthera onca;2018-01-01
+Jaguar;127507;Panthera onca;2018-02-01
+Jaguar;151967;Panthera onca;2018-03-01
+Jaguar;129668;Panthera onca;2018-04-01
+Jaguar;144698;Panthera onca;2018-05-01
+Jaguar;113868;Panthera onca;2018-06-01
+Jaguar;126293;Panthera onca;2018-07-01
+Jaguar;104136;Panthera onca;2018-08-01
+Jaguar;104409;Panthera onca;2018-09-01
+Jaguar;116268;Panthera onca;2018-10-01
+Jaguar;113404;Panthera onca;2018-11-01
+Jaguar;117962;Panthera onca;2018-12-01
+Jaguar;122071;Panthera onca;2019-01-01
+Jaguar;154052;Panthera onca;2019-02-01
+Jaguar;131148;Panthera onca;2019-03-01
+Jaguar;101083;Panthera onca;2019-04-01
+Jaguar;100914;Panthera onca;2019-05-01
+Jaguar;92172;Panthera onca;2019-06-01
+Jaguar;101477;Panthera onca;2019-07-01
+Jaguar;101662;Panthera onca;2019-08-01
+Jaguar;94657;Panthera onca;2019-09-01
+Jaguar;98787;Panthera onca;2019-10-01
+Jaguar;97522;Panthera onca;2019-11-01
+Jaguar;88147;Panthera onca;2019-12-01
+Jaguar;99532;Panthera onca;2020-01-01
+Jaguar;98114;Panthera onca;2020-02-01
+Jaguar;110905;Panthera onca;2020-03-01
+Jaguar;142634;Panthera onca;2020-04-01
+Jaguar;109916;Panthera onca;2020-05-01
+Jaguar;87629;Panthera onca;2020-06-01
+Jaguar;91908;Panthera onca;2020-07-01
+Jaguar;89737;Panthera onca;2020-08-01
+Jaguar;91892;Panthera onca;2020-09-01
+Jaguar;101422;Panthera onca;2020-10-01
+Jaguar;88098;Panthera onca;2020-11-01
+Jaguar;90327;Panthera onca;2020-12-01
