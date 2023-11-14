@@ -5,9 +5,9 @@ The following notebooks outline the processing steps for my thesis data. Data ac
 The original dataset nor processed datasets are not included due to the size limits of the repository. Can be shared upon request or can be directly accessed from: https://etsin.fairdata.fi/dataset/a222ce79-6448-4942-b154-02d55df66a2e
 
 
-APIs used: /n
+APIs used:
 
-SharedCount API (to gather Facebook engagement of news articles) https://www.sharedcount.com/  /n
+SharedCount API (to gather Facebook engagement of news articles) https://www.sharedcount.com/
 
 Wikimedia REST API (to collect Wikipedia Pageviews) https://wikimedia.org/api/rest_v1/
 
