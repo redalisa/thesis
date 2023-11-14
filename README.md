@@ -3,7 +3,7 @@
 The notebooks in this repository outline the processing steps for my thesis data. Data acquisition is done separately but some visualizations are combined in notebooks with the retrieval of other data. Some notebooks display analysis and/or visualizations that ultimately were not used in the final written work.
 
 #### Notebook with processing:  
-[First-processing-steps.ipynb](https://github.com/redalisa/thesis/tree/main) 
+[First-processing-steps.ipynb](https://github.com/redalisa/thesis/blob/main/First-data-processing-steps.ipynb)
   
 #### General visualizations and inspection of the Google News dataset:  
 [General-visualization.ipynb  ](https://github.com/redalisa/thesis/blob/main/General_Visualizations.ipynb)
