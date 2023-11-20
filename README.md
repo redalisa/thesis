@@ -21,9 +21,13 @@ The notebooks in this repository outline the processing steps for my thesis data
 [Wikipageviews.ipynb](https://github.com/redalisa/thesis/blob/main/Wikipageviews.ipynb)    
   
 
-      
+### Data:
   
-The original dataset and processed datasets are not included due to the size limits of the repository. Can be shared upon request. The unprocessed dataset can be directly accessed from: https://etsin.fairdata.fi/dataset/a222ce79-6448-4942-b154-02d55df66a2e  
+The original dataset and processed datasets are not included due to the size limits of the repository. Can be shared upon request. The unprocessed dataset can be directly accessed from: https://etsin.fairdata.fi/dataset/a222ce79-6448-4942-b154-02d55df66a2e    
+  
+Access to global shapefiles: https://thematicmapping.org/downloads/world_borders.php  
+Access to hotspot shapefiles: https://zenodo.org/records/3261807  
+
 
 
 ### APIs used:
